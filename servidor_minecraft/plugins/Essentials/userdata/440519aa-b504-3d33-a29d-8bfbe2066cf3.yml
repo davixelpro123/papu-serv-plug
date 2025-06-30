@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.110.99.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751242950612
+  login: 1751258393071
+money: '0'
+last-account-name: davixelpro123
+logoutlocation:
+  world: b00dea25-f9dc-40c8-a86f-dd334038a97d
+  world-name: world
+  x: 10.250081209657768
+  y: 104.0
+  z: 6.975400114315772
+  yaw: -87.29288482666016
+  pitch: 31.500015258789062
+lastlocation:
+  world: b00dea25-f9dc-40c8-a86f-dd334038a97d
+  world-name: world
+  x: -1719.7476812634434
+  y: 75.0
+  z: 121.74694943920962
+  yaw: 40.65826416015625
+  pitch: 26.10003662109375

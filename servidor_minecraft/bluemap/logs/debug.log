@@ -1,4 +1,4 @@
-[2025-06-28 21:51:22][WARNING] BlueMap is missing important resources!
-[2025-06-28 21:51:22][WARNING] You must accept the required file download in order for BlueMap to work!
-[2025-06-28 21:51:22][WARNING] Please check: /workspaces/papu-serv-plug/servidor_minecraft/plugins/BlueMap/core.conf
-[2025-06-28 21:51:22][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
+[2025-06-30 04:39:36][WARNING] BlueMap is missing important resources!
+[2025-06-30 04:39:36][WARNING] You must accept the required file download in order for BlueMap to work!
+[2025-06-30 04:39:36][WARNING] Please check: /workspaces/papu-serv-plug/servidor_minecraft/plugins/BlueMap/core.conf
+[2025-06-30 04:39:36][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
