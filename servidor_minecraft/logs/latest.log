@@ -471,4 +471,56 @@ Server threadEx[30Jun2025 04:42:04.070] [Server thread/INFO] [net.minecraft.clas
 Server threadEx[30Jun2025 04:43:11.133] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /pl
 Server threadEx[30Jun2025 04:43:20.583] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /nvustags
 Server threadEx[30Jun2025 04:43:28.125] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /nvustags davixelpro123 pap
+Server threadEx[30Jun2025 04:51:06.428] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:51:09.101] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:51:57.696] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi ecloud download Vault
+Server threadEx[30Jun2025 04:51:57.776] [placeholderapi-io-#1/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+placeholderapi-io-#1Ex[30Jun2025 04:52:05.369] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi reload
+Server threadEx[30Jun2025 04:52:05.371] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+Server threadEx[30Jun2025 04:52:05.372] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+Server threadEx[30Jun2025 04:52:05.464] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
+Server threadEx[30Jun2025 04:52:05.464] [Server thread/WARN] [PlaceholderAPI/]: Cannot load expansion vault due to a missing plugin: Vault
+Server threadEx[30Jun2025 04:52:11.231] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi reload
+Server threadEx[30Jun2025 04:52:11.233] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+Server threadEx[30Jun2025 04:52:11.234] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+Server threadEx[30Jun2025 04:52:11.263] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
+Server threadEx[30Jun2025 04:52:11.264] [Server thread/WARN] [PlaceholderAPI/]: Cannot load expansion vault due to a missing plugin: Vault
+Server threadEx[30Jun2025 04:52:12.916] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:52:14.070] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:52:25.441] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi ecloud download Statistic
+Server threadEx[30Jun2025 04:52:25.467] [placeholderapi-io-#2/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+placeholderapi-io-#2Ex[30Jun2025 04:52:27.067] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:52:29.168] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi reload
+Server threadEx[30Jun2025 04:52:29.170] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+Server threadEx[30Jun2025 04:52:29.170] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+Server threadEx[30Jun2025 04:52:29.214] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
+Server threadEx[30Jun2025 04:52:29.214] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: statistic [2.0.2]
+Server threadEx[30Jun2025 04:52:29.214] [Server thread/WARN] [PlaceholderAPI/]: Cannot load expansion vault due to a missing plugin: Vault
+Server threadEx[30Jun2025 04:52:40.370] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi ecloud download Server
+Server threadEx[30Jun2025 04:52:40.411] [placeholderapi-io-#1/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+placeholderapi-io-#1Ex[30Jun2025 04:52:41.865] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /papi reload
+Server threadEx[30Jun2025 04:52:41.867] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+Server threadEx[30Jun2025 04:52:41.868] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+Server threadEx[30Jun2025 04:52:41.918] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: server [2.7.3]
+Server threadEx[30Jun2025 04:52:41.918] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
+Server threadEx[30Jun2025 04:52:41.918] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: statistic [2.0.2]
+Server threadEx[30Jun2025 04:52:41.918] [Server thread/WARN] [PlaceholderAPI/]: Cannot load expansion vault due to a missing plugin: Vault
+Server threadEx[30Jun2025 04:52:48.924] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /vanish
+Server threadEx[30Jun2025 04:53:49.924] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:53.304] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:53.782] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:54.107] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:55.113] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:55.722] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:56.184] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /sb reload
+Server threadEx[30Jun2025 04:53:59.076] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /vanish
+Server threadEx[30Jun2025 04:54:00.420] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /vanish
+Server threadEx[30Jun2025 04:54:27.812] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /mem
+Server threadEx[30Jun2025 04:54:31.476] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /tps
+Server threadEx[30Jun2025 04:54:44.184] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /pl
+Server threadEx[30Jun2025 04:55:02.111] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: /vanish
+Server threadEx[30Jun2025 04:56:37.526] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 issued server command: //set 0
+Server threadEx[30Jun2025 04:56:37.529] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: davixelpro123 (in "world"): /set: /set 0 - Region: (39, 65, -53) - (39, 65, -51)
+Server threadEx[30Jun2025 04:57:43.119] [Server thread/INFO] [net.minecraft.class_3244/]: davixelpro123 lost connection: Disconnected
+Server threadEx[30Jun2025 04:57:43.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixelpro123 left the game
 Server threadEx

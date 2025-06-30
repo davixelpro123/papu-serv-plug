@@ -22,25 +22,23 @@
 
 # This is a simple scoreboard with only the top and bottom lines animated
 simple:
-  titles: '&7&LYour&6&lServer'
+  titles: '&#08FB85&lꜱ&#24FB8B&lᴜ&#40FC90&lʀ&#5CFC96&lᴠ&#77FC9C&lɪ&#93FCA2&lᴠ&#AFFDA7&lᴀʟ'
   scores:
-    13:
-      - '&7&m+----------------+'
-      - '&7&m------------------'
-    12: '&7» &6&lPlayer'
-    11: '    &7%player%'
-    10: ''
-    9: '&7» &6&lHealth'
-    8: '    %hearts%'
-    7: ''
-    6: '&7» &6&lWorld'
-    5: '    &7%world%'
-    4: ''
-    3: '&7» &6&lOnline Players'
-    2: '    &7%online% &6players'
-    1:
-      - '&7&m+----------------+'
-      - '&7&m------------------'
+    18: ''
+    17: '   &a&l● ᴘʟᴀʏᴇʀ ɪɴꜰᴏ'
+    16: '   &aɴᴀᴍᴇ: &7%player%'
+    15: '   &aʟᴇᴠᴇʟ: &7%player_level%'
+    14: '   &aMoney: &7$%vault_eco_balance%'
+    13: ''
+    12: '   &c&l● ᴄᴏᴍʙᴀᴛ ɪɴꜰᴏ'
+    11: '   &cʜᴇᴀʀᴛꜱ: &7%player_max_health_rounded%&c'
+    10: '   &cᴋɪʟʟꜱ: &7%statistic_player_kills%'
+    9: '   &cᴅᴇᴀᴛʜꜱ: &7%statistic_deaths%'
+    8: ''
+    7: '   §9§l● ꜱᴇʀᴠᴇʀ ɪɴꜰᴏ'
+    5: '   §9ᴏɴʟɪɴᴇ: &7%online%'
+    4: '   &9ᴘʟᴀʏᴛɪᴍᴇ: &7%statistic_time_played:hours% Hours'
+    3: ''
 
 # Scoreboard with a basic timing example
 customTiming:
