@@ -27,18 +27,16 @@ simple:
     18: ''
     17: '   &a&l● ᴘʟᴀʏᴇʀ ɪɴꜰᴏ'
     16: '   &aɴᴀᴍᴇ: &7%player%'
-    15: '   &aʟᴇᴠᴇʟ: &7%player_level%'
-    14: '   &aMoney: &7$%vault_eco_balance%'
-    13: ''
+    15: '   &arango: &7%luckperms_primary_group%'
+    14: ''
     12: '   &c&l● ᴄᴏᴍʙᴀᴛ ɪɴꜰᴏ'
     11: '   &cʜᴇᴀʀᴛꜱ: &7%player_max_health_rounded%&c'
     10: '   &cᴋɪʟʟꜱ: &7%statistic_player_kills%'
     9: '   &cᴅᴇᴀᴛʜꜱ: &7%statistic_deaths%'
     8: ''
     7: '   §9§l● ꜱᴇʀᴠᴇʀ ɪɴꜰᴏ'
-    5: '   §9ᴏɴʟɪɴᴇ: &7%online%'
-    4: '   &9ᴘʟᴀʏᴛɪᴍᴇ: &7%statistic_time_played:hours% Hours'
-    3: ''
+    6: '   &9ᴘʟᴀʏᴛɪᴍᴇ: &7%statistic_time_played:hours% Hours'
+    5: ''
 
 # Scoreboard with a basic timing example
 customTiming:
