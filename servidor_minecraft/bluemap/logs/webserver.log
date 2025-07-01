@@ -5637,3 +5637,477 @@
 [2025-07-01 20:10:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?921472 HTTP/1.1" 200 OK
 [2025-07-01 20:10:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?954853 HTTP/1.1" 200 OK
 [2025-07-01 20:10:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?794029 HTTP/1.1" 200 OK
+[2025-07-01 20:10:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?771897 HTTP/1.1" 200 OK
+[2025-07-01 20:10:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?156049 HTTP/1.1" 200 OK
+[2025-07-01 20:10:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?41579 HTTP/1.1" 200 OK
+[2025-07-01 20:10:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?653844 HTTP/1.1" 200 OK
+[2025-07-01 20:10:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?157836 HTTP/1.1" 200 OK
+[2025-07-01 20:10:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?952988 HTTP/1.1" 200 OK
+[2025-07-01 20:10:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?302929 HTTP/1.1" 200 OK
+[2025-07-01 20:10:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?717588 HTTP/1.1" 200 OK
+[2025-07-01 20:10:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?649456 HTTP/1.1" 200 OK
+[2025-07-01 20:10:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?430131 HTTP/1.1" 200 OK
+[2025-07-01 20:11:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?437136 HTTP/1.1" 200 OK
+[2025-07-01 20:11:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?604081 HTTP/1.1" 200 OK
+[2025-07-01 20:11:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?187479 HTTP/1.1" 200 OK
+[2025-07-01 20:11:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?952757 HTTP/1.1" 200 OK
+[2025-07-01 20:11:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?811661 HTTP/1.1" 200 OK
+[2025-07-01 20:11:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?969863 HTTP/1.1" 200 OK
+[2025-07-01 20:11:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?815031 HTTP/1.1" 200 OK
+[2025-07-01 20:11:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?954506 HTTP/1.1" 200 OK
+[2025-07-01 20:11:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?172646 HTTP/1.1" 200 OK
+[2025-07-01 20:11:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?62473 HTTP/1.1" 200 OK
+[2025-07-01 20:11:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?67064 HTTP/1.1" 200 OK
+[2025-07-01 20:11:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?257500 HTTP/1.1" 200 OK
+[2025-07-01 20:11:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?900806 HTTP/1.1" 200 OK
+[2025-07-01 20:11:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?958744 HTTP/1.1" 200 OK
+[2025-07-01 20:11:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?172189 HTTP/1.1" 200 OK
+[2025-07-01 20:11:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?721726 HTTP/1.1" 200 OK
+[2025-07-01 20:11:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?399759 HTTP/1.1" 200 OK
+[2025-07-01 20:11:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?125407 HTTP/1.1" 200 OK
+[2025-07-01 20:11:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?294873 HTTP/1.1" 200 OK
+[2025-07-01 20:11:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?917012 HTTP/1.1" 200 OK
+[2025-07-01 20:11:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?206266 HTTP/1.1" 200 OK
+[2025-07-01 20:11:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?284234 HTTP/1.1" 200 OK
+[2025-07-01 20:11:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?142033 HTTP/1.1" 200 OK
+[2025-07-01 20:11:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?257418 HTTP/1.1" 200 OK
+[2025-07-01 20:11:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?900487 HTTP/1.1" 200 OK
+[2025-07-01 20:11:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?286590 HTTP/1.1" 200 OK
+[2025-07-01 20:11:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?505339 HTTP/1.1" 200 OK
+[2025-07-01 20:11:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?525030 HTTP/1.1" 200 OK
+[2025-07-01 20:11:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?386144 HTTP/1.1" 200 OK
+[2025-07-01 20:11:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?832164 HTTP/1.1" 200 OK
+[2025-07-01 20:12:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?499990 HTTP/1.1" 200 OK
+[2025-07-01 20:12:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?399673 HTTP/1.1" 200 OK
+[2025-07-01 20:12:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?443906 HTTP/1.1" 200 OK
+[2025-07-01 20:12:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?114514 HTTP/1.1" 200 OK
+[2025-07-01 20:12:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?818307 HTTP/1.1" 200 OK
+[2025-07-01 20:12:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?85702 HTTP/1.1" 200 OK
+[2025-07-01 20:12:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?682772 HTTP/1.1" 200 OK
+[2025-07-01 20:12:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?69071 HTTP/1.1" 200 OK
+[2025-07-01 20:12:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?124508 HTTP/1.1" 200 OK
+[2025-07-01 20:12:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?958814 HTTP/1.1" 200 OK
+[2025-07-01 20:12:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?929596 HTTP/1.1" 200 OK
+[2025-07-01 20:12:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?118335 HTTP/1.1" 200 OK
+[2025-07-01 20:12:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?963572 HTTP/1.1" 200 OK
+[2025-07-01 20:12:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?169056 HTTP/1.1" 200 OK
+[2025-07-01 20:12:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?27809 HTTP/1.1" 200 OK
+[2025-07-01 20:12:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?485346 HTTP/1.1" 200 OK
+[2025-07-01 20:12:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?982701 HTTP/1.1" 200 OK
+[2025-07-01 20:12:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?445524 HTTP/1.1" 200 OK
+[2025-07-01 20:12:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?493255 HTTP/1.1" 200 OK
+[2025-07-01 20:12:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?598679 HTTP/1.1" 200 OK
+[2025-07-01 20:12:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?322235 HTTP/1.1" 200 OK
+[2025-07-01 20:12:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?445309 HTTP/1.1" 200 OK
+[2025-07-01 20:12:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?671951 HTTP/1.1" 200 OK
+[2025-07-01 20:12:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?220834 HTTP/1.1" 200 OK
+[2025-07-01 20:12:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?967994 HTTP/1.1" 200 OK
+[2025-07-01 20:12:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?898788 HTTP/1.1" 200 OK
+[2025-07-01 20:12:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?895230 HTTP/1.1" 200 OK
+[2025-07-01 20:12:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?331398 HTTP/1.1" 200 OK
+[2025-07-01 20:12:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?998812 HTTP/1.1" 200 OK
+[2025-07-01 20:12:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?543570 HTTP/1.1" 200 OK
+[2025-07-01 20:12:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?637561 HTTP/1.1" 200 OK
+[2025-07-01 20:12:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?760719 HTTP/1.1" 200 OK
+[2025-07-01 20:12:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?437105 HTTP/1.1" 200 OK
+[2025-07-01 20:12:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?440102 HTTP/1.1" 200 OK
+[2025-07-01 20:12:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?219495 HTTP/1.1" 200 OK
+[2025-07-01 20:12:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?652302 HTTP/1.1" 200 OK
+[2025-07-01 20:13:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?825573 HTTP/1.1" 200 OK
+[2025-07-01 20:13:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?124152 HTTP/1.1" 200 OK
+[2025-07-01 20:13:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?226821 HTTP/1.1" 200 OK
+[2025-07-01 20:13:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?351263 HTTP/1.1" 200 OK
+[2025-07-01 20:13:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?466105 HTTP/1.1" 200 OK
+[2025-07-01 20:13:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?174536 HTTP/1.1" 200 OK
+[2025-07-01 20:13:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?573109 HTTP/1.1" 200 OK
+[2025-07-01 20:13:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?144907 HTTP/1.1" 200 OK
+[2025-07-01 20:13:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?114986 HTTP/1.1" 200 OK
+[2025-07-01 20:13:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?849992 HTTP/1.1" 200 OK
+[2025-07-01 20:13:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?514907 HTTP/1.1" 200 OK
+[2025-07-01 20:13:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?651370 HTTP/1.1" 200 OK
+[2025-07-01 20:13:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?617618 HTTP/1.1" 200 OK
+[2025-07-01 20:13:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?735558 HTTP/1.1" 200 OK
+[2025-07-01 20:13:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?637462 HTTP/1.1" 200 OK
+[2025-07-01 20:13:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?156476 HTTP/1.1" 200 OK
+[2025-07-01 20:13:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?946220 HTTP/1.1" 200 OK
+[2025-07-01 20:13:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?378363 HTTP/1.1" 200 OK
+[2025-07-01 20:13:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?223581 HTTP/1.1" 200 OK
+[2025-07-01 20:13:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?188854 HTTP/1.1" 200 OK
+[2025-07-01 20:13:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?109594 HTTP/1.1" 200 OK
+[2025-07-01 20:13:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?842730 HTTP/1.1" 200 OK
+[2025-07-01 20:13:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?848413 HTTP/1.1" 200 OK
+[2025-07-01 20:13:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?994023 HTTP/1.1" 200 OK
+[2025-07-01 20:13:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?562044 HTTP/1.1" 200 OK
+[2025-07-01 20:13:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?503904 HTTP/1.1" 200 OK
+[2025-07-01 20:13:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?428133 HTTP/1.1" 200 OK
+[2025-07-01 20:13:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?593761 HTTP/1.1" 200 OK
+[2025-07-01 20:13:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?442897 HTTP/1.1" 200 OK
+[2025-07-01 20:13:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?315025 HTTP/1.1" 200 OK
+[2025-07-01 20:13:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?808584 HTTP/1.1" 200 OK
+[2025-07-01 20:13:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?265280 HTTP/1.1" 200 OK
+[2025-07-01 20:13:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?742248 HTTP/1.1" 200 OK
+[2025-07-01 20:13:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?29508 HTTP/1.1" 200 OK
+[2025-07-01 20:13:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?869822 HTTP/1.1" 200 OK
+[2025-07-01 20:14:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?728798 HTTP/1.1" 200 OK
+[2025-07-01 20:14:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?138824 HTTP/1.1" 200 OK
+[2025-07-01 20:14:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?521760 HTTP/1.1" 200 OK
+[2025-07-01 20:14:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?898954 HTTP/1.1" 200 OK
+[2025-07-01 20:14:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?934109 HTTP/1.1" 200 OK
+[2025-07-01 20:14:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?218201 HTTP/1.1" 200 OK
+[2025-07-01 20:14:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?304254 HTTP/1.1" 200 OK
+[2025-07-01 20:14:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?818602 HTTP/1.1" 200 OK
+[2025-07-01 20:14:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?297132 HTTP/1.1" 200 OK
+[2025-07-01 20:14:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?999096 HTTP/1.1" 200 OK
+[2025-07-01 20:14:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?423060 HTTP/1.1" 200 OK
+[2025-07-01 20:14:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?290400 HTTP/1.1" 200 OK
+[2025-07-01 20:14:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?979367 HTTP/1.1" 200 OK
+[2025-07-01 20:14:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?491349 HTTP/1.1" 200 OK
+[2025-07-01 20:14:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?133456 HTTP/1.1" 200 OK
+[2025-07-01 20:14:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?667428 HTTP/1.1" 200 OK
+[2025-07-01 20:14:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?907549 HTTP/1.1" 200 OK
+[2025-07-01 20:14:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?629320 HTTP/1.1" 200 OK
+[2025-07-01 20:14:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?273709 HTTP/1.1" 200 OK
+[2025-07-01 20:14:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?783477 HTTP/1.1" 200 OK
+[2025-07-01 20:14:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?390408 HTTP/1.1" 200 OK
+[2025-07-01 20:14:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?874273 HTTP/1.1" 200 OK
+[2025-07-01 20:14:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?484551 HTTP/1.1" 200 OK
+[2025-07-01 20:14:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?501240 HTTP/1.1" 200 OK
+[2025-07-01 20:14:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?748229 HTTP/1.1" 200 OK
+[2025-07-01 20:14:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?596219 HTTP/1.1" 200 OK
+[2025-07-01 20:14:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?236473 HTTP/1.1" 200 OK
+[2025-07-01 20:14:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?779022 HTTP/1.1" 200 OK
+[2025-07-01 20:14:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?505777 HTTP/1.1" 200 OK
+[2025-07-01 20:14:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?578677 HTTP/1.1" 200 OK
+[2025-07-01 20:14:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?901464 HTTP/1.1" 200 OK
+[2025-07-01 20:14:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?338981 HTTP/1.1" 200 OK
+[2025-07-01 20:14:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?119855 HTTP/1.1" 200 OK
+[2025-07-01 20:14:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?320600 HTTP/1.1" 200 OK
+[2025-07-01 20:14:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?641867 HTTP/1.1" 200 OK
+[2025-07-01 20:14:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?83119 HTTP/1.1" 200 OK
+[2025-07-01 20:15:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?850851 HTTP/1.1" 200 OK
+[2025-07-01 20:15:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?484564 HTTP/1.1" 200 OK
+[2025-07-01 20:15:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?75511 HTTP/1.1" 200 OK
+[2025-07-01 20:15:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?32048 HTTP/1.1" 200 OK
+[2025-07-01 20:15:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?665265 HTTP/1.1" 200 OK
+[2025-07-01 20:15:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?169524 HTTP/1.1" 200 OK
+[2025-07-01 20:15:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?546831 HTTP/1.1" 200 OK
+[2025-07-01 20:15:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?721687 HTTP/1.1" 200 OK
+[2025-07-01 20:15:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?708478 HTTP/1.1" 200 OK
+[2025-07-01 20:15:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?575005 HTTP/1.1" 200 OK
+[2025-07-01 20:15:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?30560 HTTP/1.1" 200 OK
+[2025-07-01 20:15:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?112801 HTTP/1.1" 200 OK
+[2025-07-01 20:15:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?998129 HTTP/1.1" 200 OK
+[2025-07-01 20:15:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?314145 HTTP/1.1" 200 OK
+[2025-07-01 20:15:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?524798 HTTP/1.1" 200 OK
+[2025-07-01 20:15:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?843482 HTTP/1.1" 200 OK
+[2025-07-01 20:15:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?960040 HTTP/1.1" 200 OK
+[2025-07-01 20:15:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?789826 HTTP/1.1" 200 OK
+[2025-07-01 20:15:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?445071 HTTP/1.1" 200 OK
+[2025-07-01 20:15:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?730387 HTTP/1.1" 200 OK
+[2025-07-01 20:15:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?731467 HTTP/1.1" 200 OK
+[2025-07-01 20:15:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?54443 HTTP/1.1" 200 OK
+[2025-07-01 20:15:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?954366 HTTP/1.1" 200 OK
+[2025-07-01 20:15:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?891126 HTTP/1.1" 200 OK
+[2025-07-01 20:15:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?976897 HTTP/1.1" 200 OK
+[2025-07-01 20:15:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?179676 HTTP/1.1" 200 OK
+[2025-07-01 20:15:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?106101 HTTP/1.1" 200 OK
+[2025-07-01 20:15:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?145889 HTTP/1.1" 200 OK
+[2025-07-01 20:15:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?83266 HTTP/1.1" 200 OK
+[2025-07-01 20:15:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?771651 HTTP/1.1" 200 OK
+[2025-07-01 20:15:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?989411 HTTP/1.1" 200 OK
+[2025-07-01 20:15:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?983478 HTTP/1.1" 200 OK
+[2025-07-01 20:15:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?179639 HTTP/1.1" 200 OK
+[2025-07-01 20:15:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?716050 HTTP/1.1" 200 OK
+[2025-07-01 20:15:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?749591 HTTP/1.1" 200 OK
+[2025-07-01 20:16:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?342743 HTTP/1.1" 200 OK
+[2025-07-01 20:16:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?931641 HTTP/1.1" 200 OK
+[2025-07-01 20:16:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?56355 HTTP/1.1" 200 OK
+[2025-07-01 20:16:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?737312 HTTP/1.1" 200 OK
+[2025-07-01 20:16:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?540204 HTTP/1.1" 200 OK
+[2025-07-01 20:16:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?708344 HTTP/1.1" 200 OK
+[2025-07-01 20:16:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?961139 HTTP/1.1" 200 OK
+[2025-07-01 20:16:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?115311 HTTP/1.1" 200 OK
+[2025-07-01 20:16:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?583986 HTTP/1.1" 200 OK
+[2025-07-01 20:16:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?552422 HTTP/1.1" 200 OK
+[2025-07-01 20:16:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?133101 HTTP/1.1" 200 OK
+[2025-07-01 20:16:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?461793 HTTP/1.1" 200 OK
+[2025-07-01 20:16:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?708079 HTTP/1.1" 200 OK
+[2025-07-01 20:16:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?632712 HTTP/1.1" 200 OK
+[2025-07-01 20:16:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?237129 HTTP/1.1" 200 OK
+[2025-07-01 20:16:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?457168 HTTP/1.1" 200 OK
+[2025-07-01 20:16:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?431420 HTTP/1.1" 200 OK
+[2025-07-01 20:16:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?960027 HTTP/1.1" 200 OK
+[2025-07-01 20:16:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?469702 HTTP/1.1" 200 OK
+[2025-07-01 20:16:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?648091 HTTP/1.1" 200 OK
+[2025-07-01 20:16:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?986593 HTTP/1.1" 200 OK
+[2025-07-01 20:16:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?172373 HTTP/1.1" 200 OK
+[2025-07-01 20:16:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?773987 HTTP/1.1" 200 OK
+[2025-07-01 20:16:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?744163 HTTP/1.1" 200 OK
+[2025-07-01 20:16:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?61976 HTTP/1.1" 200 OK
+[2025-07-01 20:16:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?777165 HTTP/1.1" 200 OK
+[2025-07-01 20:16:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?156090 HTTP/1.1" 200 OK
+[2025-07-01 20:16:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?526481 HTTP/1.1" 200 OK
+[2025-07-01 20:16:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?770075 HTTP/1.1" 200 OK
+[2025-07-01 20:16:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?581111 HTTP/1.1" 200 OK
+[2025-07-01 20:16:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?998069 HTTP/1.1" 200 OK
+[2025-07-01 20:16:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?783990 HTTP/1.1" 200 OK
+[2025-07-01 20:16:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?341356 HTTP/1.1" 200 OK
+[2025-07-01 20:16:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?616859 HTTP/1.1" 200 OK
+[2025-07-01 20:16:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?984030 HTTP/1.1" 200 OK
+[2025-07-01 20:17:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?290445 HTTP/1.1" 200 OK
+[2025-07-01 20:17:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?909418 HTTP/1.1" 200 OK
+[2025-07-01 20:17:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?247181 HTTP/1.1" 200 OK
+[2025-07-01 20:17:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?807375 HTTP/1.1" 200 OK
+[2025-07-01 20:17:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?141108 HTTP/1.1" 200 OK
+[2025-07-01 20:17:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?457632 HTTP/1.1" 200 OK
+[2025-07-01 20:17:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?864562 HTTP/1.1" 200 OK
+[2025-07-01 20:17:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?165223 HTTP/1.1" 200 OK
+[2025-07-01 20:17:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?396903 HTTP/1.1" 200 OK
+[2025-07-01 20:17:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?664193 HTTP/1.1" 200 OK
+[2025-07-01 20:17:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?224383 HTTP/1.1" 200 OK
+[2025-07-01 20:17:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?131295 HTTP/1.1" 200 OK
+[2025-07-01 20:17:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?790093 HTTP/1.1" 200 OK
+[2025-07-01 20:17:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?847977 HTTP/1.1" 200 OK
+[2025-07-01 20:17:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?91643 HTTP/1.1" 200 OK
+[2025-07-01 20:17:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?863968 HTTP/1.1" 200 OK
+[2025-07-01 20:17:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?508697 HTTP/1.1" 200 OK
+[2025-07-01 20:17:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?363871 HTTP/1.1" 200 OK
+[2025-07-01 20:17:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?663130 HTTP/1.1" 200 OK
+[2025-07-01 20:17:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?533101 HTTP/1.1" 200 OK
+[2025-07-01 20:17:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?526471 HTTP/1.1" 200 OK
+[2025-07-01 20:17:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?997714 HTTP/1.1" 200 OK
+[2025-07-01 20:17:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?749857 HTTP/1.1" 200 OK
+[2025-07-01 20:17:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?104133 HTTP/1.1" 200 OK
+[2025-07-01 20:17:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?105827 HTTP/1.1" 200 OK
+[2025-07-01 20:17:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?264962 HTTP/1.1" 200 OK
+[2025-07-01 20:17:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?262328 HTTP/1.1" 200 OK
+[2025-07-01 20:17:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?840802 HTTP/1.1" 200 OK
+[2025-07-01 20:17:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?870274 HTTP/1.1" 200 OK
+[2025-07-01 20:17:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?386214 HTTP/1.1" 200 OK
+[2025-07-01 20:17:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?583114 HTTP/1.1" 200 OK
+[2025-07-01 20:17:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?401369 HTTP/1.1" 200 OK
+[2025-07-01 20:17:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?702929 HTTP/1.1" 200 OK
+[2025-07-01 20:17:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?434380 HTTP/1.1" 200 OK
+[2025-07-01 20:17:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?977620 HTTP/1.1" 200 OK
+[2025-07-01 20:17:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?706794 HTTP/1.1" 200 OK
+[2025-07-01 20:18:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?639207 HTTP/1.1" 200 OK
+[2025-07-01 20:18:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?103356 HTTP/1.1" 200 OK
+[2025-07-01 20:18:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?303907 HTTP/1.1" 200 OK
+[2025-07-01 20:18:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?993016 HTTP/1.1" 200 OK
+[2025-07-01 20:18:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?342857 HTTP/1.1" 200 OK
+[2025-07-01 20:18:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?772512 HTTP/1.1" 200 OK
+[2025-07-01 20:18:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?666153 HTTP/1.1" 200 OK
+[2025-07-01 20:18:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?844278 HTTP/1.1" 200 OK
+[2025-07-01 20:18:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?210544 HTTP/1.1" 200 OK
+[2025-07-01 20:18:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?454588 HTTP/1.1" 200 OK
+[2025-07-01 20:18:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?704116 HTTP/1.1" 200 OK
+[2025-07-01 20:18:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?721231 HTTP/1.1" 200 OK
+[2025-07-01 20:18:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?624514 HTTP/1.1" 200 OK
+[2025-07-01 20:18:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?188827 HTTP/1.1" 200 OK
+[2025-07-01 20:18:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?274863 HTTP/1.1" 200 OK
+[2025-07-01 20:18:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?980721 HTTP/1.1" 200 OK
+[2025-07-01 20:18:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?783004 HTTP/1.1" 200 OK
+[2025-07-01 20:18:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?424248 HTTP/1.1" 200 OK
+[2025-07-01 20:18:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?308456 HTTP/1.1" 200 OK
+[2025-07-01 20:18:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?70200 HTTP/1.1" 200 OK
+[2025-07-01 20:18:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?46432 HTTP/1.1" 200 OK
+[2025-07-01 20:18:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?311994 HTTP/1.1" 200 OK
+[2025-07-01 20:18:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?645284 HTTP/1.1" 200 OK
+[2025-07-01 20:18:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?483065 HTTP/1.1" 200 OK
+[2025-07-01 20:18:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?528984 HTTP/1.1" 200 OK
+[2025-07-01 20:18:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?943742 HTTP/1.1" 200 OK
+[2025-07-01 20:18:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?902704 HTTP/1.1" 200 OK
+[2025-07-01 20:18:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?730120 HTTP/1.1" 200 OK
+[2025-07-01 20:18:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?407760 HTTP/1.1" 200 OK
+[2025-07-01 20:18:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?908677 HTTP/1.1" 200 OK
+[2025-07-01 20:18:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?483549 HTTP/1.1" 200 OK
+[2025-07-01 20:18:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?198155 HTTP/1.1" 200 OK
+[2025-07-01 20:18:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?287606 HTTP/1.1" 200 OK
+[2025-07-01 20:18:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?636299 HTTP/1.1" 200 OK
+[2025-07-01 20:18:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/assets/playerheads/55576363-a43c-36f6-b83b-ceac7eff7544.png HTTP/1.1" 404 Not Found
+[2025-07-01 20:18:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?561508 HTTP/1.1" 200 OK
+[2025-07-01 20:19:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?382412 HTTP/1.1" 200 OK
+[2025-07-01 20:19:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?319206 HTTP/1.1" 200 OK
+[2025-07-01 20:19:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?52063 HTTP/1.1" 200 OK
+[2025-07-01 20:19:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?593413 HTTP/1.1" 200 OK
+[2025-07-01 20:19:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?683374 HTTP/1.1" 200 OK
+[2025-07-01 20:19:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?748070 HTTP/1.1" 200 OK
+[2025-07-01 20:19:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?36322 HTTP/1.1" 200 OK
+[2025-07-01 20:19:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?521698 HTTP/1.1" 200 OK
+[2025-07-01 20:19:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?182894 HTTP/1.1" 200 OK
+[2025-07-01 20:19:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?297544 HTTP/1.1" 200 OK
+[2025-07-01 20:19:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?901269 HTTP/1.1" 200 OK
+[2025-07-01 20:19:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?417549 HTTP/1.1" 200 OK
+[2025-07-01 20:19:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?531071 HTTP/1.1" 200 OK
+[2025-07-01 20:19:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?194298 HTTP/1.1" 200 OK
+[2025-07-01 20:19:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?427531 HTTP/1.1" 200 OK
+[2025-07-01 20:19:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?731647 HTTP/1.1" 200 OK
+[2025-07-01 20:19:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?387859 HTTP/1.1" 200 OK
+[2025-07-01 20:19:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?503642 HTTP/1.1" 200 OK
+[2025-07-01 20:19:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?169457 HTTP/1.1" 200 OK
+[2025-07-01 20:19:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?346490 HTTP/1.1" 200 OK
+[2025-07-01 20:19:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?410286 HTTP/1.1" 200 OK
+[2025-07-01 20:19:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?258264 HTTP/1.1" 200 OK
+[2025-07-01 20:19:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?851431 HTTP/1.1" 200 OK
+[2025-07-01 20:19:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?988118 HTTP/1.1" 200 OK
+[2025-07-01 20:19:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?294641 HTTP/1.1" 200 OK
+[2025-07-01 20:19:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?567490 HTTP/1.1" 200 OK
+[2025-07-01 20:19:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?15113 HTTP/1.1" 200 OK
+[2025-07-01 20:19:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?999806 HTTP/1.1" 200 OK
+[2025-07-01 20:19:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?631463 HTTP/1.1" 200 OK
+[2025-07-01 20:19:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?216804 HTTP/1.1" 200 OK
+[2025-07-01 20:19:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?328609 HTTP/1.1" 200 OK
+[2025-07-01 20:19:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?469119 HTTP/1.1" 200 OK
+[2025-07-01 20:19:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?289240 HTTP/1.1" 200 OK
+[2025-07-01 20:19:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?34756 HTTP/1.1" 200 OK
+[2025-07-01 20:19:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?633354 HTTP/1.1" 200 OK
+[2025-07-01 20:19:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?202487 HTTP/1.1" 200 OK
+[2025-07-01 20:19:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?725458 HTTP/1.1" 200 OK
+[2025-07-01 20:20:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?723831 HTTP/1.1" 200 OK
+[2025-07-01 20:20:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?93583 HTTP/1.1" 200 OK
+[2025-07-01 20:20:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?3059 HTTP/1.1" 200 OK
+[2025-07-01 20:20:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?460834 HTTP/1.1" 200 OK
+[2025-07-01 20:20:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?656957 HTTP/1.1" 200 OK
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?814588 HTTP/1.1" 200 OK
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?947247 HTTP/1.1" 200 OK
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z3.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z4.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z2.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z0.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z-1.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z1.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-6/z-2.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/7/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/6/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/6/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/7/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/7/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/8/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/8/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/8/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?644213 HTTP/1.1" 200 OK
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/6/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/5/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/5/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/5/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/6/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/5/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/7/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/8/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?163583 HTTP/1.1" 200 OK
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/9/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/9/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/9/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/9/z2/4.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/9/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/8/z2/4.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/7/z2/4.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/6/z2/4.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z2/7.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z-2.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z2/8.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z2/8.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z2/7.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z0.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z4.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z3.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z2.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z5.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z-1.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z1.png?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?563558 HTTP/1.1" 200 OK
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z2/9.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?761932 HTTP/1.1" 200 OK
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z2/5.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z2/7.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z3/0.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z3/0.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z3/0.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z3/0.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/2/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z3/0.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/2/z3/0.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/2/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z3/0.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/2/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?804385 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z2/7.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z2/8.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z2/9.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z3/0.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/0/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/1/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?16766 HTTP/1.1" 200 OK
+[2025-07-01 20:20:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z2/7.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z2/8.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z2/9.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z3/2.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z3/1.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z3/0.prbm?420585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?667505 HTTP/1.1" 200 OK
+[2025-07-01 20:20:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?734409 HTTP/1.1" 200 OK
+[2025-07-01 20:20:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?599587 HTTP/1.1" 200 OK
+[2025-07-01 20:20:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?962991 HTTP/1.1" 200 OK
+[2025-07-01 20:20:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?388363 HTTP/1.1" 200 OK
+[2025-07-01 20:20:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?407130 HTTP/1.1" 200 OK
+[2025-07-01 20:20:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z2/6.prbm?420585 HTTP/1.1" 204 No Content
+[2025-07-01 20:20:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?722585 HTTP/1.1" 200 OK
+[2025-07-01 20:20:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?314477 HTTP/1.1" 200 OK
+[2025-07-01 20:20:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?600432 HTTP/1.1" 200 OK
+[2025-07-01 20:20:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?476082 HTTP/1.1" 200 OK
+[2025-07-01 20:20:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?77502 HTTP/1.1" 200 OK
+[2025-07-01 20:20:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?577352 HTTP/1.1" 200 OK
+[2025-07-01 20:20:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?493392 HTTP/1.1" 200 OK
+[2025-07-01 20:20:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?45083 HTTP/1.1" 200 OK
+[2025-07-01 20:20:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/assets/playerheads/55576363-a43c-36f6-b83b-ceac7eff7544.png HTTP/1.1" 404 Not Found
+[2025-07-01 20:20:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?785522 HTTP/1.1" 200 OK
+[2025-07-01 20:20:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?45365 HTTP/1.1" 200 OK
+[2025-07-01 20:20:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?562299 HTTP/1.1" 200 OK
+[2025-07-01 20:20:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?945624 HTTP/1.1" 200 OK
+[2025-07-01 20:20:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?874105 HTTP/1.1" 200 OK
+[2025-07-01 20:20:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?209369 HTTP/1.1" 200 OK

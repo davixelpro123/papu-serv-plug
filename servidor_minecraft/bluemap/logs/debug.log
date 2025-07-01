@@ -1725,3 +1725,89 @@
 [2025-07-01 20:07:38][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
 [2025-07-01 20:07:38][FINE] Scheduled update for region-file: (-3, 0) (Map: world)
 [2025-07-01 20:07:38][FINE] Scheduled update for region-file: (-3, -1) (Map: world)
+[2025-07-01 20:12:20][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:12:20][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:12:20][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-01 20:12:20][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-07-01 20:12:29][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:12:47][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:13:04][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:13:14][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:13:34][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:13:40][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:13:51][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:14:13][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:14:28][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:14:39][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:14:50][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:15:00][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:15:11][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:15:18][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:15:36][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:15:43][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:16:01][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:16:02][FINE] Scheduled update for region-file: (-2, 1) (Map: world)
+[2025-07-01 20:16:02][FINE] Scheduled update for region-file: (-3, 1) (Map: world)
+[2025-07-01 20:16:03][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:16:07][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:16:08][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:16:14][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:16:15][FINE] Scheduled update for region-file: (0, 2) (Map: world)
+[2025-07-01 20:16:15][FINE] Scheduled update for region-file: (-3, 1) (Map: world)
+[2025-07-01 20:16:17][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-07-01 20:16:17][FINE] Scheduled update for region-file: (-2, 1) (Map: world)
+[2025-07-01 20:16:17][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-07-01 20:16:17][FINE] Scheduled update for region-file: (-2, 0) (Map: world)
+[2025-07-01 20:16:17][FINE] Scheduled update for region-file: (-3, 0) (Map: world)
+[2025-07-01 20:16:17][FINE] Scheduled update for region-file: (-3, -1) (Map: world)
+[2025-07-01 20:16:43][FINE] Scheduled update for region-file: (-2, 2) (Map: world)
+[2025-07-01 20:17:13][FINE] Scheduled update for region-file: (0, 0) (Map: world)
+[2025-07-01 20:18:24][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:18:36][FINE] Scheduled update for region-file: (-2, 2) (Map: world)
+[2025-07-01 20:18:36][FINE] Scheduled update for region-file: (0, 1) (Map: world)
+[2025-07-01 20:18:36][FINE] Scheduled update for region-file: (0, 2) (Map: world)
+[2025-07-01 20:18:42][FINE] Scheduled update for region-file: (-2, 2) (Map: world)
+[2025-07-01 20:18:42][FINE] Scheduled update for region-file: (0, 2) (Map: world)
+[2025-07-01 20:18:50][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:18:57][FINE] Scheduled update for region-file: (-2, 2) (Map: world)
+[2025-07-01 20:18:57][FINE] Scheduled update for region-file: (0, 2) (Map: world)
+[2025-07-01 20:18:57][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:19:48][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:20:14][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_aether_the_aether' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_modminds_mounstrosity_dimension' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_the_end' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_boh_level_0' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_arphex_the_webrooms' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_modminds_limbo' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_the_nether' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_boh_gaster_dimension' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_boh_boiler_room_dimension' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_deeperdarker_otherside' for updates.
+[2025-07-01 20:22:11][FINE] Stopped watching map 'world_arphex_the_crawling' for updates.
+[2025-07-01 20:22:11][FINE] Started watching map 'world_aether_the_aether' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_modminds_mounstrosity_dimension' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_boh_level_0' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_the_nether' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_modminds_limbo' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_boh_boiler_room_dimension' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_arphex_the_webrooms' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_arphex_the_crawling' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_the_end' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_deeperdarker_otherside' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world' for updates...
+[2025-07-01 20:22:11][FINE] Started watching map 'world_boh_gaster_dimension' for updates...
+[2025-07-01 20:25:19][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:25:46][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:26:50][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:26:57][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:27:45][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:28:49][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:28:59][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:29:09][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:29:19][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:29:29][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:29:39][FINE] Scheduled update for region-file: (-1, 2) (Map: world)
+[2025-07-01 20:29:53][FINE] Scheduled update for region-file: (-1, 1) (Map: world)
+[2025-07-01 20:29:59][FINE] Scheduled update for region-file: (-1, 1) (Map: world)

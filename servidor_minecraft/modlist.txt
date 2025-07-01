@@ -55,7 +55,6 @@ luckperms,LuckPerms,5.4.102,LuckPerms-Forge-5.4.102.jar,,https://luckperms.net/,
 forge,Forge,47.3.7,forge-1.20.1-47.3.7-universal.jar,,https://minecraftforge.net/,https://minecraftforge.net/
 emotecraft,Emotecraft,2.2.7-b.build.50,emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar,,,https://github.com/KosmX/emotes/issues
 minecraft,Minecraft,1.20.1,server-1.20.1-20230612.114412-srg.jar,,,
-modminds,ModMinds,1.0.6,modminds-1.0.6-forge-1.20.1.jar,,https://www.curseforge.com/minecraft/mc-mods/modminds,
 upgrade_aquatic,Upgrade Aquatic,6.0.3,upgrade_aquatic-1.20.1-6.0.3.jar,,https://www.teamabnormals.com/mods/upgrade-aquatic,https://github.com/team-abnormals/upgrade-aquatic/issues
 kurolib,KuroLib,0.1,kurolib-0.1-forge-1.20.1.jar,,https://discord.com/invite/QkWF48u,
 endergetic,The Endergetic Expansion,5.0.1,endergetic-1.20.1-5.0.1.jar,,,https://github.com/team-abnormals/endergetic/issues

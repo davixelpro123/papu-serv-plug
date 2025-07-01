@@ -2201,3 +2201,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 20:07:32.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
 [01Jul2025 20:07:32.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
 [01Jul2025 20:07:32.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
+[01Jul2025 20:12:12.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shadow[/127.191.140.51:56065] logged in with entity id 7309 at (-696.3872620744723, 79.60414914450897, 164.77892854226266)
+[01Jul2025 20:12:12.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+[01Jul2025 20:12:13.591] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shadow (18)
+[01Jul2025 20:12:13.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 20:12:29.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:12:30.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:12:30.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
+[01Jul2025 20:15:56.012] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 1062 ms
+[01Jul2025 20:16:08.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shadow: Teleported shadow to -207.500000, 82.438928, 944.500000]
+[01Jul2025 20:16:08.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5274ms or 105 ticks behind
+[01Jul2025 20:16:08.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shadow: Teleported shadow to -207.500000, 82.438928, 944.500000]
+[01Jul2025 20:22:27.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7833, l='ServerLevel[world]', x=-229.75, y=69.00, z=963.02] died, message: 'Villager was slain by Seed Eater'
+[01Jul2025 20:24:31.509] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 20:24:31.523] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 13ms
+[01Jul2025 20:26:35.198] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 20:26:35.208] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 9ms
+[01Jul2025 20:27:42.285] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 20:27:42.295] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 10ms
+[01Jul2025 20:28:23.236] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 20:28:23.245] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 8ms
+[01Jul2025 20:28:46.535] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 20:28:46.544] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 8ms
+[01Jul2025 20:29:41.039] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 20:29:41.048] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 8ms
+[01Jul2025 20:30:17.517] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 20:30:17.528] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 11ms
+[01Jul2025 20:30:34.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shadow: Saved mod list as modlist.txt]
