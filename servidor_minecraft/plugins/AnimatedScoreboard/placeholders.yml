@@ -1,0 +1,10 @@
+scoreboard:
+  names:
+    adminboard: globalscoreboard
+    endscoreboard: globalscoreboard
+    globalscoreboard: globalscoreboard
+    netherscoreboard: globalscoreboard
+    defaultscoreboard: globalscoreboard
+  disabled: '&cDisabled'
+  enabled: '&aEnabled'
+  none-active: '&7None'

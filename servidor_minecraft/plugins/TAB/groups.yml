@@ -19,13 +19,7 @@ _DEFAULT_:
   tagsuffix: "%luckperms-suffix%"
 
 per-world:
-  world:
-    owner:
-      tabprefix: "&7[&x&F&F&A&F&0&0&lF&x&F&F&C&1&2&B&lu&x&F&F&D&3&5&6&ln&x&F&F&C&F&4&5&ld&x&F&F&C&C&3&4&la&x&F&F&C&8&2&2&ld&x&F&F&C&5&1&1&lo&x&F&F&C&1&0&0&lr&7] &f"
-      tagprefix: "&7[&x&F&F&A&F&0&0&lF&x&F&F&C&1&2&B&lu&x&F&F&D&3&5&6&ln&x&F&F&C&F&4&5&ld&x&F&F&C&C&3&4&la&x&F&F&C&8&2&2&ld&x&F&F&C&5&1&1&lo&x&F&F&C&1&0&0&lr&7] &f"
-    staff:
-      tabprefix: "&7[&x&1&3&5&4&7&A&lc&x&1&C&5&E&8&0&le&x&2&5&6&9&8&7&ln&x&2&E&7&3&8&D&lt&x&3&7&7&D&9&4&li&x&4&0&8&8&9&A&ln&x&4&A&9&2&A&1&le&x&5&3&9&C&A&7&ll&x&5&C&A&7&A&D&la&x&6&5&B&1&B&4&ls&x&6&E&B&B&B&A&l&7] &f"
-      tagprefix: "&7[&x&1&3&5&4&7&A&lc&x&1&C&5&E&8&0&le&x&2&5&6&9&8&7&ln&x&2&E&7&3&8&D&lt&x&3&7&7&D&9&4&li&x&4&0&8&8&9&A&ln&x&4&A&9&2&A&1&le&x&5&3&9&C&A&7&ll&x&5&C&A&7&A&D&la&x&6&5&B&1&B&4&ls&x&6&E&B&B&B&A&l&7] &f"
-    default:
-      tabprefix: "&7[&x&a&a&a&a&a&a&l&oa&x&9&5&9&5&9&5&l&ov&x&8&0&8&0&8&0&l&oe&x&6&A&6&A&6&A&l&on&x&5&5&5&5&5&5&l&ot&x&6&3&6&3&6&3&l&ou&x&7&1&7&1&7&1&l&or&x&8&0&8&0&8&0&l&oe&x&8&E&8&E&8&E&l&or&x&9&C&9&C&9&C&l&oo&x&A&A&A&A&A&A&l&os&7] &7"
-      tagprefix: "&7[&x&A&A&a&A&A&A&l&oa&x&9&5&9&5&9&5&l&ov&x&8&0&8&0&8&0&l&oe&x&6&A&6&A&6&A&l&on&x&5&5&5&5&5&5&l&ot&x&6&3&6&3&6&3&l&ou&x&7&1&7&1&7&1&l&or&x&8&0&8&0&8&0&l&oe&x&8&E&8&E&8&E&l&or&x&9&C&9&C&9&C&l&oo&x&A&A&A&A&A&A&l&os&7] &7"
+  world1:
+    Owner:
+      tabprefix: "&0&l[&a&lOwner&0&l] &a"
+      tagprefix: "&2&lOwner &a"

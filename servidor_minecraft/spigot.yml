@@ -11,8 +11,6 @@
 # Forums: http://www.spigotmc.org/
 
 commands:
-  tab-complete: 0
-  send-namespaced: true
   replace-commands:
   - setblock
   - summon
@@ -22,6 +20,8 @@ commands:
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
+  tab-complete: 0
+  send-namespaced: true
 settings:
   sample-count: 12
   player-shuffle: 0
@@ -54,38 +54,11 @@ world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
     verbose: true
+    zombie-aggressive-towards-villager: true
     merge-radius:
       exp: 3.0
       item: 2.5
     mob-spawn-range: 6
-    zombie-aggressive-towards-villager: true
-    seed-village: 10387312
-    seed-desert: 14357617
-    seed-igloo: 14357618
-    seed-jungle: 14357619
-    seed-swamp: 14357620
-    seed-monument: 10387313
-    seed-shipwreck: 165745295
-    seed-ocean: 14357621
-    seed-outpost: 165745296
-    seed-endcity: 10387313
-    seed-slime: 987234911
-    seed-nether: 30084232
-    seed-mansion: 10387319
-    seed-fossil: 14357921
-    seed-portal: 34222645
-    hunger:
-      jump-walk-exhaustion: 0.05
-      jump-sprint-exhaustion: 0.2
-      combat-exhaustion: 0.1
-      regen-exhaustion: 6.0
-      swim-multiplier: 0.01
-      sprint-multiplier: 0.1
-      other-multiplier: 0.0
-    max-tnt-per-tick: 100
-    max-tick-time:
-      tile: 50
-      entity: 50
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
@@ -134,6 +107,33 @@ world-settings:
     hopper-amount: 1
     hopper-can-load-chunks: false
     dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-desert: 14357617
+    seed-igloo: 14357618
+    seed-jungle: 14357619
+    seed-swamp: 14357620
+    seed-monument: 10387313
+    seed-shipwreck: 165745295
+    seed-ocean: 14357621
+    seed-outpost: 165745296
+    seed-endcity: 10387313
+    seed-slime: 987234911
+    seed-nether: 30084232
+    seed-mansion: 10387319
+    seed-fossil: 14357921
+    seed-portal: 34222645
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
+    max-tnt-per-tick: 100
+    max-tick-time:
+      tile: 50
+      entity: 50
     view-distance: default
     item-despawn-rate: 6000
     nerf-spawner-mobs: false

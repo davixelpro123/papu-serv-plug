@@ -2,21 +2,19 @@
 header-footer:
   enabled: true
   header:
-    - "&x&5&0&5&0&5&0&l☙&x&5&5&5&5&5&5&l-&x&5&B&5&B&5&B&l-&x&6&0&6&0&6&0&l-&x&6&6&6&6&6&6&l-&x&6&B&6&B&6&B&l-&x&7&1&7&1&7&1&l-&x&7&6&7&6&7&6&l-&x&7&B&7&B&7&B&l-&x&8&1&8&1&8&1&l-&x&8&6&8&6&8&6&l-&x&8&C&8&C&8&C&l-&x&9&1&9&1&9&1&l-&x&9&6&9&6&9&6&l-&x&9&B&9&B&9&B&l-&x&A&1&A&1&A&1&l-&x&A&6&A&6&A&6&l-&x&A&B&A&B&A&B&l-&x&B&0&B&0&B&0&l-&x&A&A&A&A&A&A&l-&x&A&4&A&4&A&4&l-&x&9&E&9&E&9&E&l-&x&9&8&9&8&9&8&l-&x&9&2&9&2&9&2&l-&x&8&C&8&C&8&C&l-&x&8&6&8&6&8&6&l-&x&8&0&8&0&8&0&l-&x&7&A&7&A&7&A&l-&x&7&4&7&4&7&4&l-&x&6&E&6&E&6&E&l-&x&6&8&6&8&6&8&l-&x&6&2&6&2&6&2&l-&x&5&C&5&C&5&C&l-&x&5&6&5&6&5&6&l-&x&5&0&5&0&5&0&l-&x&4&A&4&A&4&A&l-&x&4&4&4&4&4&4&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l❧"
-    - "&x&0&0&6&D&F&F&ls&x&0&E&7&9&F&F&lh&x&1&D&8&6&F&F&la&x&2&B&9&2&F&F&ld&x&3&9&9&E&F&F&lo&x&4&8&A&B&F&F&lw&x&5&6&B&7&F&F&l &x&4&A&A&C&F&F&ln&x&3&D&A&0&F&F&le&x&3&1&9&5&F&F&lt&x&2&5&8&9&F&F&lw&x&1&9&7&E&F&F&lo&x&0&C&7&2&F&F&lr&x&0&0&6&7&F&F&lk"
-    - "&fWelcome &9%player%"
-    - " &7activos:                                    discord:"
-    - "     &b%online%/20                                   &cProximamente"
+    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - "&3&lServer name"
+    - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
+    - "&r&7Online players: &f%online%"
+    - "&6Online staff: &e%staffonline%"
     - ""
-    - "&x&5&0&5&0&5&0&l☙&x&5&9&5&9&5&9&l-&x&6&3&6&3&6&3&l-&x&6&C&6&C&6&C&l-&x&7&5&7&5&7&5&l-&x&7&E&7&E&7&E&l-&x&8&8&8&8&8&8&l &x&9&1&9&1&9&1&lC&x&9&9&9&9&9&9&lo&x&A&1&A&1&A&1&ln&x&A&8&A&8&A&8&le&x&B&0&B&0&B&0&lc&x&A&6&A&6&A&6&lt&x&9&B&9&B&9&B&la&x&9&1&9&1&9&1&ld&x&8&7&8&7&8&7&lo&x&7&C&7&C&7&C&ls&x&7&2&7&2&7&2&l &x&6&7&6&7&6&7&l-&x&5&D&5&D&5&D&l-&x&5&3&5&3&5&3&l-&x&4&8&4&8&4&8&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l❧"
   footer:
-    - "&x&5&0&5&0&5&0&l☙&x&5&9&5&9&5&9&l-&x&6&3&6&3&6&3&l-&x&6&C&6&C&6&C&l-&x&7&5&7&5&7&5&l-&x&7&E&7&E&7&E&l-&x&8&8&8&8&8&8&l-&x&9&1&9&1&9&1&l-&x&9&B&9&B&9&B&l-&x&A&6&A&6&A&6&l-&x&B&0&B&0&B&0&l-&x&A&6&A&6&A&6&l-&x&9&B&9&B&9&B&l-&x&9&1&9&1&9&1&l-&x&8&7&8&7&8&7&l-&x&7&C&7&C&7&C&l-&x&7&2&7&2&7&2&l-&x&6&7&6&7&6&7&l-&x&5&D&5&D&5&D&l-&x&5&3&5&3&5&3&l-&x&4&8&4&8&4&8&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l❧"
-    - ""
-    - "&7El mejor servidor jamas nunca creado XD"
-    - ""
     - "%animation:time%"
+    - "&2Ping: %ping%"
     - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
-    - "&x&5&0&5&0&5&0&l☙&x&5&5&5&5&5&5&l-&x&5&B&5&B&5&B&l-&x&6&0&6&0&6&0&l-&x&6&6&6&6&6&6&l-&x&6&B&6&B&6&B&l-&x&7&1&7&1&7&1&l-&x&7&6&7&6&7&6&l-&x&7&B&7&B&7&B&l-&x&8&1&8&1&8&1&l-&x&8&6&8&6&8&6&l-&x&8&C&8&C&8&C&l-&x&9&1&9&1&9&1&l-&x&9&6&9&6&9&6&l-&x&9&B&9&B&9&B&l-&x&A&1&A&1&A&1&l-&x&A&6&A&6&A&6&l-&x&A&B&A&B&A&B&l-&x&B&0&B&0&B&0&l-&x&A&A&A&A&A&A&l-&x&A&4&A&4&A&4&l-&x&9&E&9&E&9&E&l-&x&9&8&9&8&9&8&l-&x&9&2&9&2&9&2&l-&x&8&C&8&C&8&C&l-&x&8&6&8&6&8&6&l-&x&8&0&8&0&8&0&l-&x&7&A&7&A&7&A&l-&x&7&4&7&4&7&4&l-&x&6&E&6&E&6&E&l-&x&6&8&6&8&6&8&l-&x&6&2&6&2&6&2&l-&x&5&C&5&C&5&C&l-&x&5&6&5&6&5&6&l-&x&5&0&5&0&5&0&l-&x&4&A&4&A&4&A&l-&x&4&4&4&4&4&4&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l-&x&3&E&3&E&3&E&l❧"
+    - ""
+    - "&r&7Visit our webpage %animation:web%"
+    - "<#FFFFFF>&m                                                </#FFFF00>"
   disable-condition: '%world%=disabledworld'
   per-world:
     world1:

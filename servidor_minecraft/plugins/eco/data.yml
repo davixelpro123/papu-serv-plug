@@ -2,15 +2,9 @@
 
 previous-handler: YAML
 player:
-  440519aa-b504-3d33-a29d-8bfbe2066cf3:
-    ecoenchants:soulbound_items: []
-    eco:player_name: §4davixelpro123§r
-  220ee113-7745-4c04-97e0-23458c221a7d:
-    ecoenchants:soulbound_items: []
-    eco:player_name: Bobicraft
-  ec561538-f3fd-461d-aff5-086b22154bce:
-    ecoenchants:soulbound_items: []
-    eco:player_name: Alex
   00000000-0000-0000-0000-000000000000:
-    eco:local_server_id: da0438d5-ddda-4cd3-9d08-c20bc079f1b8
+    eco:local_server_id: 51a265fe-a277-4e2f-865f-5c91fb3f3c8a
+  dc4e3ba7-b98d-365a-925e-d011efff1420:
+    ecoenchants:soulbound_items: []
+    eco:player_name: davixlapida123
 

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.192.42.205
+ip-address: 127.57.165.169
 afk: false
 socialspy: false
 npc: false
@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1751303576294
+  logout: 1751343675836
+  login: 1751343563250
 money: '0'
 last-account-name: davixlapida123
+logoutlocation:
+  world: ebe0355c-30fe-40a5-bcb4-01fec63d329d
+  world-name: world
+  x: 8.811644014644067
+  y: 87.0
+  z: 39.811374579695
+  yaw: 88.79994201660156
+  pitch: 13.050010681152344

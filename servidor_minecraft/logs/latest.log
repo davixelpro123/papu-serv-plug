@@ -1,8 +1,6 @@
-[30Jun2025 17:12:06.320] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.21 Arclight arclight-1.21-1.0.0-SNAPSHOT-b3349e9 with Fabric Loader 0.15.11
-mainEx[30Jun2025 17:12:06.507] [main/INFO] [FabricLoader/]: Loading 47 mods:
+[01Jul2025 04:18:11.574] [main/INFO] [FabricLoader/GameProvider/]: Loading Minecraft 1.21 Arclight arclight-1.21-1.0.0-SNAPSHOT-b3349e9 with Fabric Loader 0.15.11
+mainEx[01Jul2025 04:18:11.733] [main/INFO] [FabricLoader/]: Loading 42 mods:
 	- arclight 1.0.0-SNAPSHOT+b3349e9
-	- carpet 1.4.147+v240613
-	- carpet-extra 1.4.148
 	- fabric-api 0.100.1+1.21
 	   |-- fabric-api-base 0.4.42+6573ed8c90
 	   |-- fabric-api-lookup-api-v1 1.6.65+b559734490
@@ -53,17 +51,13 @@ mainEx[30Jun2025 17:12:06.507] [main/INFO] [FabricLoader/]: Loading 47 mods:
 	   \-- mixinextras 0.3.5
 	- java 21
 	- minecraft 1.21
-	- multiworld-bundle 1.9
-	   \-- multiworld 1.9
-	        \-- fantasy 0.6.3+1.21
 	- worldedit 7.3.8+6939-7d32b45
 	   |-- fabric-lifecycle-events-v1 2.3.11+8f3583aed1
 	   \-- fabric-networking-api-v1 4.2.0+ab7edbacd1
-mainEx[30Jun2025 17:12:06.637] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/papu-serv-plug/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-mainEx[30Jun2025 17:12:06.727] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
-mainEx[30Jun2025 17:12:06.827] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_21
-mainEx[30Jun2025 17:12:07.171] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
-mainEx[30Jun2025 17:12:07.175] [main/INFO] [Arclight/]: 
+mainEx[01Jul2025 04:18:11.869] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/papu-serv-plug/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+mainEx[01Jul2025 04:18:11.957] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_17
+mainEx[01Jul2025 04:18:12.362] [main/INFO] [Arclight/]: Using locale en_ and fallback locale en_us
+mainEx[01Jul2025 04:18:12.366] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -75,392 +69,379 @@ mainEx[30Jun2025 17:12:07.175] [main/INFO] [Arclight/]:
     Version 诸王 (Feudal Kings) / arclight-1.21-1.0.0-SNAPSHOT-b3349e9
     Build Date 2024-06-29 03:46:12
 
-mainEx[30Jun2025 17:12:08.468] [main/WARN] [com.sk89q.worldedit.fabric.internal.MixinConfigPlugin/]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
-mainEx[30Jun2025 17:12:08.851] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-mainEx[30Jun2025 17:12:11.969] [main/WARN] [FabricLoader/Mixin/]: @Redirect conflict. Skipping mixins.arclight.core.json:world.level.block.TntBlockMixin from mod arclight->@Redirect::arclight$redstone1(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)Z with priority 500, already redirected by carpet.mixins.json:TntBlock_noUpdateMixin from mod carpet->@Redirect::isTNTDoNotUpdate(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)Z with priority 1000
-mainEx[30Jun2025 17:12:19.684] [main/INFO] [net.minecraft.class_2983/]: [STDOUT]: Multiworld init
-mainEx[30Jun2025 17:12:19.685] [main/INFO] [MultiworldBundle/]: Hello Fabric world!
-mainEx[30Jun2025 17:12:20.140] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7d7fa727]
-mainEx[30Jun2025 17:12:20.401] [main/INFO] [com.sk89q.worldedit.fabric.FabricWorldEdit/]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
-mainEx[30Jun2025 17:12:20.805] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-mainEx[30Jun2025 17:12:22.847] [Worker-Main-3/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-Worker-Main-3Ex[30Jun2025 17:12:23.249] [main/INFO] [net.minecraft.class_1863/]: Loaded 1290 recipes
-mainEx[30Jun2025 17:12:23.472] [main/INFO] [net.minecraft.class_163/]: Loaded 1399 advancements
-mainEx[30Jun2025 17:12:23.923] [main/INFO] [net.fabricmc.fabric.impl.biome.modification.BiomeModificationImpl/]: Applied 0 biome modifications to 0 of 64 new biomes in 1.146 ms
-mainEx[30Jun2025 17:12:23.930] [Server thread/INFO] [net.minecraft.class_3176/]: Starting minecraft server version 1.21
-Server threadEx[30Jun2025 17:12:23.930] [Server thread/INFO] [net.minecraft.class_3176/]: Loading properties
-Server threadEx[30Jun2025 17:12:23.930] [Server thread/INFO] [net.minecraft.class_3176/]: Default game type: SURVIVAL
-Server threadEx[30Jun2025 17:12:23.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-Server threadEx[30Jun2025 17:12:24.006] [Server thread/INFO] [net.minecraft.class_3176/]: Starting Minecraft server on *:25565
-Server threadEx[30Jun2025 17:12:24.146] [Server thread/INFO] [net.minecraft.class_3242/]: Using epoll channel type
-Server threadEx[30Jun2025 17:12:24.240] [Server thread/WARN] [net.minecraft.class_3176/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-Server threadEx[30Jun2025 17:12:24.241] [Server thread/WARN] [net.minecraft.class_3176/]: The server will make no attempt to authenticate usernames. Beware.
-Server threadEx[30Jun2025 17:12:24.241] [Server thread/WARN] [net.minecraft.class_3176/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-Server threadEx[30Jun2025 17:12:24.241] [Server thread/WARN] [net.minecraft.class_3176/]: To change this, set "online-mode" to "true" in the server.properties file.
-Server threadEx[30Jun2025 17:12:24.502] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.21-1.0.0-SNAPSHOT-b3349e9 (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
-Server threadEx[30Jun2025 17:12:25.312] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
-Server threadEx[30Jun2025 17:12:25.356] [Server thread/INFO] [Arclight/]: Registered 0 new materials with 0 blocks and 0 items
-Server threadEx[30Jun2025 17:12:25.520] [Server thread/INFO] [Arclight/]: Registered 0 new entity types
-Server threadEx[30Jun2025 17:12:25.520] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
-Server threadEx[30Jun2025 17:12:25.522] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
-Server threadEx[30Jun2025 17:12:25.548] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Server Ping Player Sample Count: 12
-Server threadEx[30Jun2025 17:12:25.548] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-Server threadEx[30Jun2025 17:12:25.549] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-Server threadEx[30Jun2025 17:12:25.836] [Server thread/INFO] [Arclight/]: Loading mappings ...
-Server threadEx[30Jun2025 17:12:26.348] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
-Server threadEx[30Jun2025 17:12:26.960] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/worldguard-bukkit-7.0.12-dist.jar'
-Server threadEx org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Please download and install WorldEdit to run this plugin.
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:280) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:122) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.loadPlugins(CraftServerMixin.java:456) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at net.minecraft.class_3176.handler$zci000$arclight$loadPlugins(DedicatedServerMixin_Vanilla.java:744) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:175) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664) ~[server-intermediary.jar:?]
+mainEx[01Jul2025 04:18:13.604] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+mainEx[01Jul2025 04:18:20.994] [main/WARN] [FabricLoader/Mixin/]: Discarding @Unique public method setBlockState in worldedit-fabric.mixins.json:MixinLevelChunkSetBlockHook from mod worldedit because it already exists in net.minecraft.class_2818
+mainEx[01Jul2025 04:18:25.108] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2a2ae296]
+mainEx[01Jul2025 04:18:25.244] [main/INFO] [com.sk89q.worldedit.fabric.FabricWorldEdit/]: WorldEdit for Fabric (version 7.3.8+6939-7d32b45) is loaded
+mainEx[01Jul2025 04:18:25.347] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+mainEx[01Jul2025 04:18:26.994] [Worker-Main-3/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+Worker-Main-3Ex[01Jul2025 04:18:27.310] [main/INFO] [net.minecraft.class_1863/]: Loaded 1290 recipes
+mainEx[01Jul2025 04:18:27.555] [main/INFO] [net.minecraft.class_163/]: Loaded 1399 advancements
+mainEx[01Jul2025 04:18:28.052] [main/INFO] [net.fabricmc.fabric.impl.biome.modification.BiomeModificationImpl/]: Applied 0 biome modifications to 0 of 64 new biomes in 1.183 ms
+mainEx[01Jul2025 04:18:28.059] [Server thread/INFO] [net.minecraft.class_3176/]: Starting minecraft server version 1.21
+Server threadEx[01Jul2025 04:18:28.059] [Server thread/INFO] [net.minecraft.class_3176/]: Loading properties
+Server threadEx[01Jul2025 04:18:28.059] [Server thread/INFO] [net.minecraft.class_3176/]: Default game type: SURVIVAL
+Server threadEx[01Jul2025 04:18:28.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+Server threadEx[01Jul2025 04:18:28.145] [Server thread/INFO] [net.minecraft.class_3176/]: Starting Minecraft server on *:25565
+Server threadEx[01Jul2025 04:18:28.228] [Server thread/INFO] [net.minecraft.class_3242/]: Using epoll channel type
+Server threadEx[01Jul2025 04:18:28.307] [Server thread/WARN] [net.minecraft.class_3176/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Server threadEx[01Jul2025 04:18:28.307] [Server thread/WARN] [net.minecraft.class_3176/]: The server will make no attempt to authenticate usernames. Beware.
+Server threadEx[01Jul2025 04:18:28.307] [Server thread/WARN] [net.minecraft.class_3176/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Server threadEx[01Jul2025 04:18:28.307] [Server thread/WARN] [net.minecraft.class_3176/]: To change this, set "online-mode" to "true" in the server.properties file.
+Server threadEx[01Jul2025 04:18:28.475] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.21-1.0.0-SNAPSHOT-b3349e9 (MC: 1.21) (Implementing API version 1.21-R0.1-SNAPSHOT)
+Server threadEx[01Jul2025 04:18:29.356] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+Server threadEx[01Jul2025 04:18:29.401] [Server thread/INFO] [Arclight/]: Registered 0 new materials with 0 blocks and 0 items
+Server threadEx[01Jul2025 04:18:29.544] [Server thread/INFO] [Arclight/]: Registered 0 new entity types
+Server threadEx[01Jul2025 04:18:29.544] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
+Server threadEx[01Jul2025 04:18:29.545] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
+Server threadEx[01Jul2025 04:18:29.570] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Server Ping Player Sample Count: 12
+Server threadEx[01Jul2025 04:18:29.571] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+Server threadEx[01Jul2025 04:18:29.572] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+Server threadEx[01Jul2025 04:18:29.742] [Server thread/INFO] [Arclight/]: Loading mappings ...
+Server threadEx[01Jul2025 04:18:30.162] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
+Server threadEx[01Jul2025 04:18:30.659] [Server thread/INFO] [Console/]: [eco] Initializing eco
+Server threadEx[01Jul2025 04:18:30.919] [Server thread/INFO] [Console/]: [EcoEnchants] Initializing EcoEnchants
+Server threadEx[01Jul2025 04:18:30.977] [Server thread/INFO] [TVoidGenerator/]: Loading TVoidGenerator v2.0.0
+Server threadEx[01Jul2025 04:18:30.977] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.134
+Server threadEx[01Jul2025 04:18:31.155] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+Server threadEx[01Jul2025 04:18:31.156] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+Server threadEx[01Jul2025 04:18:31.157] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.13
+Server threadEx[01Jul2025 04:18:31.185] [Server thread/INFO] [Sit/]: Loading Sit v1.7.1
+Server threadEx[01Jul2025 04:18:31.185] [Server thread/INFO] [Console/]: [eco] Loading eco v6.71.3
+Server threadEx[01Jul2025 04:18:31.185] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.7.3
+Server threadEx[01Jul2025 04:18:31.186] [Server thread/INFO] [TAB/]: Loading TAB v5.2.3
+Server threadEx[01Jul2025 04:18:31.186] [Server thread/INFO] [Console/]: [EcoEnchants] Loading EcoEnchants v12.10.1
+Server threadEx[01Jul2025 04:18:31.226] [Server thread/WARN] [Minecraft/]: [libreforge] Loaded class com.willfp.eco.core.EcoPlugin from eco v6.71.3 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:31.230] [Server thread/INFO] [Console/]: [libreforge] Initializing §xlibreforge
+Server threadEx[01Jul2025 04:18:32.374] [Server thread/INFO] [AnimatedScoreboard/]: Loading AnimatedScoreboard v0.3.7
+Server threadEx[01Jul2025 04:18:32.376] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.134
+Server threadEx[01Jul2025 04:18:32.922] [Server thread/WARN] [LuckPerms/]: Loaded class net.kyori.adventure.text.Component from TVoidGenerator v2.0.0 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:32.928] [Server thread/WARN] [LuckPerms/]: Loaded class net.kyori.adventure.text.serializer.gson.GsonComponentSerializer from eco v6.71.3 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:33.141] [Server thread/INFO] [Console/]:         __    
+Server threadEx[01Jul2025 04:18:33.141] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.134
+Server threadEx[01Jul2025 04:18:33.142] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+Server threadEx[01Jul2025 04:18:33.142] [Server thread/INFO] [Console/]: 
+Server threadEx[01Jul2025 04:18:33.144] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+Server threadEx[01Jul2025 04:18:33.335] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+Server threadEx[01Jul2025 04:18:34.017] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+Server threadEx[01Jul2025 04:18:34.165] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+Server threadEx[01Jul2025 04:18:34.279] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 1902ms)
+Server threadEx[01Jul2025 04:18:34.281] [Server thread/INFO] [Console/]: [eco] Enabling eco v6.71.3
+Server threadEx[01Jul2025 04:18:34.282] [Server thread/INFO] [Console/]: [eco] Loading eco
+Server threadEx[01Jul2025 04:18:34.293] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: eco [6.71.3]
+Server threadEx[01Jul2025 04:18:34.304] [Server thread/INFO] [Console/]: [eco] Loaded integrations: Essentials, PlaceholderAPI
+Server threadEx[01Jul2025 04:18:34.359] [Server thread/INFO] [Console/]: [eco] Scanning for conflicts...
+Server threadEx[01Jul2025 04:18:34.376] [Server thread/INFO] [Console/]: [eco] No conflicts found!
+Server threadEx[01Jul2025 04:18:34.576] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.7.3
+Server threadEx[01Jul2025 04:18:34.838] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.Component from TVoidGenerator v2.0.0 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:34.841] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.serializer.gson.GsonComponentSerializer from eco v6.71.3 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:35.364] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.21.0[32;1m.[0;39m
+Server threadEx[01Jul2025 04:18:35.888] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.7.3]
+Server threadEx[01Jul2025 04:18:35.889] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+Server threadEx[01Jul2025 04:18:35.926] [Server thread/INFO] [Console/]: [EcoEnchants] Enabling EcoEnchants v12.10.1
+Server threadEx[01Jul2025 04:18:35.927] [Server thread/INFO] [Console/]: [EcoEnchants] Loading EcoEnchants
+Server threadEx[01Jul2025 04:18:35.928] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: ecoenchants [12.10.1]
+Server threadEx[01Jul2025 04:18:35.931] [Server thread/INFO] [Console/]: [EcoEnchants] Loaded integrations: Essentials
+Server threadEx[01Jul2025 04:18:35.973] [Server thread/INFO] [net.minecraft.class_3176/]: Preparing level "world"
+Server threadEx[01Jul2025 04:18:35.985] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
+Server threadEx[01Jul2025 04:18:36.404] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+Server threadEx[01Jul2025 04:18:36.406] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[01Jul2025 04:18:36.408] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[01Jul2025 04:18:36.412] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.413] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:36.420] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[01Jul2025 04:18:36.420] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[01Jul2025 04:18:36.421] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[01Jul2025 04:18:40.217] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+Server threadEx[01Jul2025 04:18:40.217] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[01Jul2025 04:18:40.217] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[01Jul2025 04:18:40.217] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[01Jul2025 04:18:40.217] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[01Jul2025 04:18:40.218] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[01Jul2025 04:18:40.280] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+Server threadEx[01Jul2025 04:18:40.280] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[01Jul2025 04:18:40.280] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[01Jul2025 04:18:40.280] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[01Jul2025 04:18:40.281] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[01Jul2025 04:18:40.302] [Server thread/INFO] [TVoidGenerator/]: Enabling TVoidGenerator v2.0.0
+Server threadEx[01Jul2025 04:18:40.302] [Server thread/INFO] [TVoidGenerator/]: Starting TVoidGenerator...
+Server threadEx[01Jul2025 04:18:40.314] [Server thread/INFO] [TVoidGenerator/]: TVoidGenerator Started!
+Server threadEx[01Jul2025 04:18:40.317] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+Server threadEx[01Jul2025 04:18:40.348] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+Server threadEx[01Jul2025 04:18:40.348] [Server thread/INFO] [Essentials/]: Status determining class: net.fabricmc.loader.launch.knot.KnotServer
+Server threadEx[01Jul2025 04:18:40.569] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+Server threadEx[01Jul2025 04:18:40.569] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+Server threadEx[01Jul2025 04:18:40.572] [Server thread/INFO] [Essentials/]: Starting Essentials ban format conversion
+Server threadEx[01Jul2025 04:18:40.572] [Server thread/INFO] [Essentials/]: Found 1 files to convert...
+Server threadEx[01Jul2025 04:18:40.572] [Server thread/INFO] [Essentials/]: Converted 0/1
+Server threadEx[01Jul2025 04:18:40.573] [Server thread/INFO] [Essentials/]: Ban format update complete.
+Server threadEx[01Jul2025 04:18:40.573] [Server thread/INFO] [Essentials/]: Attempting to migrate ignore list to UUIDs
+Server threadEx[01Jul2025 04:18:40.574] [Server thread/INFO] [Essentials/]: Done converting ignore list.
+Server threadEx[01Jul2025 04:18:40.574] [Server thread/INFO] [Essentials/]: Attempting to migrate legacy userdata keys to Configurate
+Server threadEx[01Jul2025 04:18:40.582] [Server thread/INFO] [Essentials/]: Done converting legacy userdata keys to Configurate.
+Server threadEx[01Jul2025 04:18:40.584] [Server thread/INFO] [Essentials/]: Done converting mail list.
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]: #===========================================================================#
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  EssentialsX will now purge any NPC accounts which were incorrectly created.
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  Only NPC accounts with the default starting balance will be deleted. If
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  they turn out to be valid NPC accounts, they will be re-created as needed.
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  Any files deleted here will be backed up to the 
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  "plugins/Essentials/userdata-npc-backup" folder. If you notice any files
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  have been purged incorrectly, you should restore it from the backup and
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  report it to us on GitHub:
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  https://github.com/EssentialsX/Essentials/issues/new/choose
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]: 
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  NOTE: This is a one-time process and will take several minutes if you have
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  a lot of userdata files! If you interrupt this process, EssentialsX will
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]:  skip the process until you rename or remove the backup folder.
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]: #===========================================================================#
+Server threadEx[01Jul2025 04:18:40.585] [Server thread/INFO] [Essentials/]: Found ~1 files under "plugins/Essentials/userdata"...
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]: #===========================================================================#
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  EssentialsX has finished purging NPC accounts.
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]: 
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  Deleted accounts: 0
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  Total accounts processed: 1
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]: 
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  Purged accounts have been backed up to
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  "plugins/Essentials/userdata-npc-backup", and can be restored from there
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  if needed. Please report any files which have been incorrectly deleted
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  to us on GitHub:
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]:  https://github.com/EssentialsX/Essentials/issues/new/choose
+Server threadEx[01Jul2025 04:18:40.590] [Server thread/INFO] [Essentials/]: #===========================================================================#
+Server threadEx[01Jul2025 04:18:40.632] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: java.lang.NoSuchMethodException: no such method: net.minecraft.server.MinecraftServer.method_3782()boolean/invokeVirtual
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:915)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:994)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3750)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2767)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.ess3.nms.refl.providers.ReflServerStateProvider.<init>(ReflServerStateProvider.java:32)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:396)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:267)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:492)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugin(CraftServerMixin.java:567)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugins(CraftServerMixin.java:481)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zbl000$arclight$enablePlugins(MinecraftServerMixin.java:2354)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_3786(MinecraftServerMixin.java:423)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServerMixin.java:342)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:185)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: Caused by: java.lang.NoSuchMethodError: 'boolean net.minecraft.server.MinecraftServer.method_3782()'
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:962)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:991)
+Server threadEx[01Jul2025 04:18:40.633] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	... 16 more
+Server threadEx[01Jul2025 04:18:40.795] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+Server threadEx[01Jul2025 04:18:40.797] [Server thread/INFO] [Essentials/]: Using locale en
+Server threadEx[01Jul2025 04:18:40.843] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+Server threadEx[01Jul2025 04:18:40.879] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+Server threadEx[01Jul2025 04:18:40.884] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
+Server threadEx[01Jul2025 04:18:40.884] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+Server threadEx[01Jul2025 04:18:40.884] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+Server threadEx[01Jul2025 04:18:40.885] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+Server threadEx[01Jul2025 04:18:41.023] [Server thread/WARN] [PlaceholderAPI/]: Loaded class net.kyori.adventure.text.Component from TVoidGenerator v2.0.0 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:41.023] [Server thread/WARN] [PlaceholderAPI/]: Loaded class net.kyori.adventure.text.serializer.gson.GsonComponentSerializer from eco v6.71.3 which is not a depend or softdepend of this plugin.
+Server threadEx[01Jul2025 04:18:41.032] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+Server threadEx[01Jul2025 04:18:41.036] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.13
+Server threadEx[01Jul2025 04:18:41.045] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.13" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+Server threadEx[01Jul2025 04:18:41.047] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+Server threadEx[01Jul2025 04:18:41.166] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+Server threadEx[01Jul2025 04:18:41.179] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+Server threadEx[01Jul2025 04:18:41.190] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.13 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+Server threadEx[01Jul2025 04:18:41.192] [Server thread/INFO] [Sit/]: Enabling Sit v1.7.1
+Server threadEx[01Jul2025 04:18:41.197] [Server thread/INFO] [TAB/]: Enabling TAB v5.2.3
+Server threadEx[01Jul2025 04:18:41.557] [Server thread/INFO] [Console/]: [TAB] §xEnabled in 196ms
+Server threadEx[01Jul2025 04:18:41.559] [Server thread/INFO] [AnimatedScoreboard/]: Enabling AnimatedScoreboard v0.3.7
+Server threadEx[01Jul2025 04:18:41.801] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: animatedscoreboard [0.0.1]
+Server threadEx[01Jul2025 04:18:41.811] [Server thread/INFO] [Console/]: [libreforge] Enabling libreforge v4.63.1
+Server threadEx[01Jul2025 04:18:41.811] [Server thread/INFO] [Console/]: [libreforge] Loading §xlibreforge
+Server threadEx[01Jul2025 04:18:41.812] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: libreforge [4.63.1]
+Server threadEx[01Jul2025 04:18:41.816] [Server thread/INFO] [Console/]: [libreforge] Loaded integrations: TAB
+Server threadEx[01Jul2025 04:18:41.840] [Server thread/INFO] [Console/]: [libreforge] 
+Server threadEx[01Jul2025 04:18:41.840] [Server thread/INFO] [Console/]: [libreforge] Hey, what's this plugin doing here? I didn't install it!
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] libreforge is the effects system for plugins like EcoEnchants,
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] EcoJobs, EcoItems, etc. If you're looking for config options for
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] things like cooldown messages, lrcdb, and stuff like that, you'll
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] find it under /plugins/libreforge
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] 
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] Don't worry about updating libreforge, it's handled automatically!
+Server threadEx[01Jul2025 04:18:41.841] [Server thread/INFO] [Console/]: [libreforge] 
+Server threadEx[01Jul2025 04:18:41.872] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[01Jul2025 04:18:41.907] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+Server threadEx[01Jul2025 04:18:41.910] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+Server threadEx[01Jul2025 04:18:41.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+Server threadEx[01Jul2025 04:18:42.335] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
+Worker-Main-2Ex[01Jul2025 04:18:42.412] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 4%
+Worker-Main-2Ex[01Jul2025 04:18:42.547] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 636 ms
+Server threadEx[01Jul2025 04:18:42.547] [Server thread/INFO] [net.minecraft.class_3176/]: Done (6.575s)! For help, type "help"
+Server threadEx[01Jul2025 04:18:43.981] [Craft Scheduler Thread - 1/INFO] [Essentials/]: Fetching version information...
+Craft Scheduler Thread - 1Ex[01Jul2025 04:18:44.070] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.7.3[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m32c7547[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.071] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.072] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.072] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.072] [Craft Scheduler Thread - 2/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.161] [Server thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+Server threadEx[01Jul2025 04:18:44.166] [Craft Scheduler Thread - 2/INFO] [AnimatedScoreboard/]: Checking for an update!
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.189] [Craft Scheduler Thread - 2/INFO] [AnimatedScoreboard/]: No new versions found for the plugin!
+Craft Scheduler Thread - 2Ex[01Jul2025 04:18:44.198] [Server thread/INFO] [Console/]: [eco] Loaded eco
+Server threadEx[01Jul2025 04:18:44.386] [Server thread/INFO] [Console/]: [libreforge] Loaded §xlibreforge
+Server threadEx[01Jul2025 04:18:44.542] [Craft Scheduler Thread - 1/WARN] [Essentials/]: There is a new EssentialsX version available for download: 2.21.1.
+Craft Scheduler Thread - 1Ex[01Jul2025 04:18:44.542] [Craft Scheduler Thread - 1/WARN] [Essentials/]: Download it here: https://essentialsx.net/downloads.html?branch=stable
+Craft Scheduler Thread - 1Ex[01Jul2025 04:19:19.243] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player davixlapida123 is dc4e3ba7-b98d-365a-925e-d011efff1420
+User Authenticator #1Ex[01Jul2025 04:19:22.978] [Server thread/INFO] [net.minecraft.class_3324/]: davixlapida123[/127.57.165.169:33493] logged in with entity id 99 at (8.811644014644067, 87.0, 39.811374579695)
+Server threadEx[01Jul2025 04:19:23.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixlapida123 joined the game
+Server threadEx[01Jul2025 04:19:23.256] [TAB Processing Thread/WARN] [TAB/]: Loaded class net.kyori.adventure.bossbar.BossBar from TVoidGenerator v2.0.0 which is not a depend or softdepend of this plugin.
+TAB Processing ThreadEx[01Jul2025 04:19:28.699] [Server thread/ERROR] [net.minecraft.class_6857/]: Failed to handle packet net.minecraft.class_2799@5eb91d54, suppressing error
+Server threadEx java.lang.NullPointerException: Cannot invoke "org.bukkit.Location.getWorld()" because "location" is null
+	at net.minecraft.class_3324.handler$zdc000$arclight$postRespawn(PlayerListMixin.java:1388) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3324.method_14556(PlayerListMixin.java:530) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12068(ServerPlayNetHandlerMixin.java:1672) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2799.method_12120(class_2799.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2799.method_11054(class_2799.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.md830a97$arclight$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:538) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[30Jun2025 17:12:27.238] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/FeatherMorph-0.12.16.jar'
-Server threadEx org.bukkit.plugin.InvalidPluginException: Exception initializing main class `xiamomc.morph.MorphPlugin'
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:96) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:406) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:313) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:122) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.loadPlugins(CraftServerMixin.java:456) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at net.minecraft.class_3176.handler$zci000$arclight$loadPlugins(DedicatedServerMixin_Vanilla.java:744) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:175) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664) ~[server-intermediary.jar:?]
+[01Jul2025 04:21:15.828] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 lost connection: Disconnected
+Server threadEx[01Jul2025 04:21:15.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixlapida123 left the game
+Server threadEx[01Jul2025 04:24:14.840] [User Authenticator #2/INFO] [net.minecraft.class_3248/]: UUID of player shadow is 55576363-a43c-36f6-b83b-ceac7eff7544
+User Authenticator #2Ex[01Jul2025 04:24:17.716] [Server thread/INFO] [net.minecraft.class_3324/]: shadow[/127.57.165.169:58355] logged in with entity id 725 at (9.5, 87.0, 40.5)
+Server threadEx[01Jul2025 04:24:17.733] [Server thread/INFO] [Essentials/]: Created a User for shadow (55576363-a43c-36f6-b83b-ceac7eff7544) for non Bukkit type: org.bukkit.craftbukkit.v1_21_R1.entity.CraftPlayer
+Server threadEx[01Jul2025 04:24:17.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+Server threadEx[01Jul2025 04:24:39.321] [Async Chat Thread - #0/INFO] [Console/]: <shadow> te wo nobase
+Async Chat Thread - #0Ex[01Jul2025 04:24:42.508] [Server thread/ERROR] [net.minecraft.class_6857/]: Failed to handle packet net.minecraft.class_2846@654b3569, suppressing error
+Server threadEx java.lang.IllegalStateException: Not implemented.
+	at io.izzel.arclight.mixin.DecorationOps.callsite(DecorationOps.java:20) ~[arclight.jar:arclight-1.21-1.0.0-SNAPSHOT-b3349e9]
+	at net.minecraft.class_3225.redirect$zdd000$arclight$mayNotInteractEvent(ServerPlayerGameMode_Vanilla.java:587) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3225.method_14263(ServerPlayerGameMode_Vanilla.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12066(ServerPlayNetHandlerMixin.java:2759) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2846.method_12361(class_2846.java:50) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2846.method_11054(class_2846.java:10) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.md830a97$arclight$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:538) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.reflect.InvocationTargetException
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:74) ~[?:?]
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:88) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	... 10 more
-Caused by: java.lang.NoSuchMethodError: 'org.slf4j.Logger xiamomc.morph.shaded.pluginbase.XiaMoJavaPlugin.getSLF4JLogger()'
-	at xiamomc.morph.shaded.pluginbase.XiaMoJavaPlugin.<init>(XiaMoJavaPlugin.java:37) ~[?:?]
-	at xiamomc.morph.MorphPlugin.<init>(MorphPlugin.java:56) ~[?:?]
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:88) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	... 10 more
-[30Jun2025 17:12:27.511] [Server thread/INFO] [Console/]: [eco] Initializing eco
-Server threadEx[30Jun2025 17:12:27.739] [Server thread/INFO] [Console/]: [EcoEnchants] Initializing EcoEnchants
-Server threadEx[30Jun2025 17:12:27.804] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.134
-Server threadEx[30Jun2025 17:12:28.027] [Server thread/INFO] [BlueMap/]: Loading BlueMap v5.9
-Server threadEx[30Jun2025 17:12:28.027] [Server thread/INFO] [NVusTags/]: Loading NVusTags v${project.version}
-Server threadEx[30Jun2025 17:12:28.027] [Server thread/INFO] [Chunky/]: Loading Chunky v1.4.40
-Server threadEx[30Jun2025 17:12:28.027] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-Server threadEx[30Jun2025 17:12:28.030] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-Server threadEx[30Jun2025 17:12:28.030] [Server thread/INFO] [TAB/]: Loading TAB v5.2.3
-Server threadEx[30Jun2025 17:12:28.032] [Server thread/INFO] [Minecraft/]: [CoreLogging] Loading Multiverse-Core v5.1.0-pre.3
-Server threadEx[30Jun2025 17:12:28.034] [Server thread/INFO] [Sit/]: Loading Sit v1.7.1
-Server threadEx[30Jun2025 17:12:28.034] [Server thread/INFO] [ImageFrame/]: Loading ImageFrame v1.8.3.0
-Server threadEx[30Jun2025 17:12:28.034] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.7.3
-Server threadEx[30Jun2025 17:12:28.034] [Server thread/INFO] [SimpleScore/]: Loading SimpleScore v3.12.5
-Server threadEx[30Jun2025 17:12:28.035] [Server thread/INFO] [Console/]: [eco] Loading eco v6.71.3
-Server threadEx[30Jun2025 17:12:28.036] [Server thread/INFO] [Console/]: [EcoEnchants] Loading EcoEnchants v12.10.1
-Server threadEx[30Jun2025 17:12:28.081] [Server thread/WARN] [Minecraft/]: [libreforge] Loaded class com.willfp.eco.core.EcoPlugin from eco v6.71.3 which is not a depend or softdepend of this plugin.
-Server threadEx[30Jun2025 17:12:28.085] [Server thread/INFO] [Console/]: [libreforge] Initializing §xlibreforge
-Server threadEx[30Jun2025 17:12:29.384] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.134
-Server threadEx[30Jun2025 17:12:29.922] [Server thread/WARN] [LuckPerms/]: Loaded class net.kyori.adventure.text.Component from eco v6.71.3 which is not a depend or softdepend of this plugin.
-Server threadEx[30Jun2025 17:12:30.200] [Server thread/INFO] [Console/]:         __    
-Server threadEx[30Jun2025 17:12:30.200] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.134
-Server threadEx[30Jun2025 17:12:30.201] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
-Server threadEx[30Jun2025 17:12:30.201] [Server thread/INFO] [Console/]: 
-Server threadEx[30Jun2025 17:12:30.204] [Server thread/INFO] [LuckPerms/]: Loading configuration...
-Server threadEx[30Jun2025 17:12:30.489] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
-Server threadEx[30Jun2025 17:12:31.296] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
-Server threadEx[30Jun2025 17:12:31.476] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
-Server threadEx[30Jun2025 17:12:31.805] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 2420ms)
-Server threadEx[30Jun2025 17:12:31.809] [Server thread/INFO] [NVusTags/]: Enabling NVusTags v${project.version}
-Server threadEx[30Jun2025 17:12:31.817] [Server thread/INFO] [NVusTags/]: NVusTags has been enabled!
-Server threadEx[30Jun2025 17:12:31.818] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.7.3
-Server threadEx[30Jun2025 17:12:32.122] [Server thread/WARN] [SkinsRestorer/]: Loaded class net.kyori.adventure.text.Component from eco v6.71.3 which is not a depend or softdepend of this plugin.
-Server threadEx[30Jun2025 17:12:32.815] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.21.0[32;1m.[0;39m
-Server threadEx[30Jun2025 17:12:33.466] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.7.3]
-Server threadEx[30Jun2025 17:12:33.468] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-Server threadEx[30Jun2025 17:12:33.481] [Server thread/INFO] [Console/]: [eco] Enabling eco v6.71.3
-Server threadEx[30Jun2025 17:12:33.481] [Server thread/INFO] [Console/]: [eco] Loading eco
-Server threadEx[30Jun2025 17:12:33.488] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: eco [6.71.3]
-Server threadEx[30Jun2025 17:12:33.493] [Server thread/INFO] [Console/]: [eco] Loaded integrations: Essentials, PlaceholderAPI
-Server threadEx[30Jun2025 17:12:33.525] [Server thread/INFO] [Console/]: [eco] Scanning for conflicts...
-Server threadEx[30Jun2025 17:12:33.535] [Server thread/INFO] [Console/]: [eco] No conflicts found!
-Server threadEx[30Jun2025 17:12:33.659] [Server thread/INFO] [Console/]: [EcoEnchants] Enabling EcoEnchants v12.10.1
-Server threadEx[30Jun2025 17:12:33.660] [Server thread/INFO] [Console/]: [EcoEnchants] Loading EcoEnchants
-Server threadEx[30Jun2025 17:12:33.660] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: ecoenchants [12.10.1]
-Server threadEx[30Jun2025 17:12:33.665] [Server thread/INFO] [Console/]: [EcoEnchants] Loaded integrations: Essentials
-Server threadEx[30Jun2025 17:12:33.704] [Server thread/INFO] [net.minecraft.class_3176/]: Preparing level "world"
-Server threadEx[30Jun2025 17:12:33.729] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
-Server threadEx[30Jun2025 17:12:34.109] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-Server threadEx[30Jun2025 17:12:34.110] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-Server threadEx[30Jun2025 17:12:34.110] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-Server threadEx[30Jun2025 17:12:34.110] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-Server threadEx[30Jun2025 17:12:34.110] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:34.111] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-Server threadEx[30Jun2025 17:12:34.112] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-Server threadEx[30Jun2025 17:12:34.113] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-Server threadEx[30Jun2025 17:12:34.115] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-Server threadEx[30Jun2025 17:12:34.115] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-Server threadEx[30Jun2025 17:12:34.115] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-Server threadEx[30Jun2025 17:12:34.115] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-Server threadEx[30Jun2025 17:12:34.116] [Server thread/INFO] [Minecraft/]: View Distance: 10
-Server threadEx[30Jun2025 17:12:34.116] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-Server threadEx[30Jun2025 17:12:34.116] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-Server threadEx[30Jun2025 17:12:34.116] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-Server threadEx[30Jun2025 17:12:34.116] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-Server threadEx[30Jun2025 17:12:36.454] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
-Server threadEx[30Jun2025 17:12:36.454] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-Server threadEx[30Jun2025 17:12:36.454] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-Server threadEx[30Jun2025 17:12:36.454] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-Server threadEx[30Jun2025 17:12:36.454] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-Server threadEx[30Jun2025 17:12:36.454] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: View Distance: 10
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-Server threadEx[30Jun2025 17:12:36.455] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-Server threadEx[30Jun2025 17:12:36.477] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
-Server threadEx[30Jun2025 17:12:36.477] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-Server threadEx[30Jun2025 17:12:36.478] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: View Distance: 10
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-Server threadEx[30Jun2025 17:12:36.479] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-Server threadEx[30Jun2025 17:12:36.493] [Server thread/INFO] [BlueMap/]: Enabling BlueMap v5.9
-Server threadEx[30Jun2025 17:12:36.493] [Server thread/INFO] [BlueMap/]: Saving all worlds once, to make sure the level.dat is present...
-Server threadEx[30Jun2025 17:12:36.494] [Server thread/WARN] [Minecraft/]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-Server threadEx[30Jun2025 17:12:36.521] [Server thread/INFO] [Chunky/]: Enabling Chunky v1.4.40
-Server threadEx[30Jun2025 17:12:36.556] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-Server threadEx[30Jun2025 17:12:36.582] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-Server threadEx[30Jun2025 17:12:36.582] [Server thread/INFO] [Essentials/]: Status determining class: net.fabricmc.loader.launch.knot.KnotServer
-Server threadEx[30Jun2025 17:12:36.756] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-Server threadEx[30Jun2025 17:12:36.756] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: java.lang.NoSuchMethodException: no such method: net.minecraft.server.MinecraftServer.method_3782()boolean/invokeVirtual
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName.makeAccessException(MemberName.java:915)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:994)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3750)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2767)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.ess3.nms.refl.providers.ReflServerStateProvider.<init>(ReflServerStateProvider.java:32)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at com.earth2me.essentials.Essentials.onEnable(Essentials.java:396)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:267)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:492)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugin(CraftServerMixin.java:567)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugins(CraftServerMixin.java:481)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.handler$zbl000$arclight$enablePlugins(MinecraftServerMixin.java:2354)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_3786(MinecraftServerMixin.java:423)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServerMixin.java:342)
-Server threadEx[30Jun2025 17:12:36.787] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:185)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: Caused by: java.lang.NoSuchMethodError: 'boolean net.minecraft.server.MinecraftServer.method_3782()'
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandleNatives.resolve(Native Method)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName$Factory.resolve(MemberName.java:962)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	at java.base/java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:991)
-Server threadEx[30Jun2025 17:12:36.788] [Server thread/INFO] [net.minecraft.class_2983/]: [STDERR]: 	... 16 more
-Server threadEx[30Jun2025 17:12:36.948] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-Server threadEx[30Jun2025 17:12:36.950] [Server thread/INFO] [Essentials/]: Using locale en
-Server threadEx[30Jun2025 17:12:36.985] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-Server threadEx[30Jun2025 17:12:37.015] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-Server threadEx[30Jun2025 17:12:37.020] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
-Server threadEx[30Jun2025 17:12:37.020] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-Server threadEx[30Jun2025 17:12:37.020] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-Server threadEx[30Jun2025 17:12:37.021] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-Server threadEx[30Jun2025 17:12:37.134] [Server thread/WARN] [PlaceholderAPI/]: Loaded class net.kyori.adventure.text.Component from eco v6.71.3 which is not a depend or softdepend of this plugin.
-Server threadEx[30Jun2025 17:12:37.144] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-Server threadEx[30Jun2025 17:12:37.147] [Server thread/INFO] [TAB/]: Enabling TAB v5.2.3
-Server threadEx[30Jun2025 17:12:37.423] [Server thread/INFO] [Console/]: [TAB] §xEnabled in 143ms
-Server threadEx[30Jun2025 17:12:37.425] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Enabling Multiverse-Core v5.1.0-pre.3
-Server threadEx[30Jun2025 17:12:37.865] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Loaded class net.kyori.adventure.text.serializer.legacy.LegacyComponentSerializer from eco v6.71.3 which is not a depend or softdepend of this plugin.
-Server threadEx[30Jun2025 17:12:37.868] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling Multiverse-Core v5.1.0-pre.3 (Is it up to date?)
-Server threadEx java.lang.NoClassDefFoundError: net/kyori/adventure/text/serializer/plain/PlainTextComponentSerializer
-	at org.mvplugins.multiverse.core.utils.text.AdventureTextFormatter.removeColor(AdventureTextFormatter.java:17) ~[?:?]
-	at org.mvplugins.multiverse.core.utils.text.ChatTextFormatter.removeColor(ChatTextFormatter.java:48) ~[?:?]
-	at org.mvplugins.multiverse.core.world.MultiverseWorld.updateColourlessAlias(MultiverseWorld.java:140) ~[?:?]
-	at org.mvplugins.multiverse.core.world.MultiverseWorld.<init>(MultiverseWorld.java:44) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.newMultiverseWorld(WorldManager.java:323) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.lambda$loadNewWorldConfigs$3(WorldManager.java:166) ~[?:?]
-	at org.mvplugins.multiverse.external.vavr.control.Option.onEmpty(Option.java:232) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.lambda$loadNewWorldConfigs$4(WorldManager.java:166) ~[?:?]
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.loadNewWorldConfigs(WorldManager.java:164) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.lambda$updateWorldsFromConfig$31f05a96$1(WorldManager.java:157) ~[?:?]
-	at org.mvplugins.multiverse.external.vavr.control.Try.mapTry(Try.java:634) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.updateWorldsFromConfig(WorldManager.java:156) ~[?:?]
-	at org.mvplugins.multiverse.core.world.WorldManager.initAllWorlds(WorldManager.java:144) ~[?:?]
-	at org.mvplugins.multiverse.core.MultiverseCore.onEnable(MultiverseCore.java:101) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:267) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:492) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugin(CraftServerMixin.java:567) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugins(CraftServerMixin.java:481) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zbl000$arclight$enablePlugins(MinecraftServerMixin.java:2354) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3786(MinecraftServerMixin.java:423) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3735(MinecraftServerMixin.java:342) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:185) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.serializer.plain.PlainTextComponentSerializer
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoaderMixin.java:160) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoaderMixin.java:112) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
-	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	... 27 more
-[30Jun2025 17:12:37.871] [Server thread/INFO] [Sit/]: Enabling Sit v1.7.1
-Server threadEx[30Jun2025 17:12:37.877] [Server thread/INFO] [ImageFrame/]: Enabling ImageFrame v1.8.3.0
-Server threadEx[30Jun2025 17:12:40.498] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: imageframe [1.0.0]
-Server threadEx[30Jun2025 17:12:40.498] [Server thread/INFO] [Console/]: [ImageFrame] ImageFrame has been Enabled!
-Server threadEx[30Jun2025 17:12:40.500] [Server thread/INFO] [SimpleScore/]: Enabling SimpleScore v3.12.5
-Server threadEx[30Jun2025 17:12:40.914] [Server thread/INFO] [SimpleScore/]: It looks like your server doesn't have ProtocolLib, install ProtocolLib for even better performance and compatibility with other plugins.
-Server threadEx[30Jun2025 17:12:40.914] [Server thread/INFO] [SimpleScore/]: https://www.spigotmc.org/resources/protocollib.1997/
-Server threadEx[30Jun2025 17:12:40.915] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: SimpleScore [3.12.5]
-Server threadEx[30Jun2025 17:12:40.926] [Server thread/INFO] [Console/]: [libreforge] Enabling libreforge v4.63.1
-Server threadEx[30Jun2025 17:12:40.926] [Server thread/INFO] [Console/]: [libreforge] Loading §xlibreforge
-Server threadEx[30Jun2025 17:12:40.927] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: libreforge [4.63.1]
-Server threadEx[30Jun2025 17:12:40.931] [Server thread/INFO] [Console/]: [libreforge] Loaded integrations: TAB
-Server threadEx[30Jun2025 17:12:40.957] [Server thread/INFO] [Console/]: [libreforge] 
-Server threadEx[30Jun2025 17:12:40.957] [Server thread/INFO] [Console/]: [libreforge] Hey, what's this plugin doing here? I didn't install it!
-Server threadEx[30Jun2025 17:12:40.957] [Server thread/INFO] [Console/]: [libreforge] libreforge is the effects system for plugins like EcoEnchants,
-Server threadEx[30Jun2025 17:12:40.958] [Server thread/INFO] [Console/]: [libreforge] EcoJobs, EcoItems, etc. If you're looking for config options for
-Server threadEx[30Jun2025 17:12:40.958] [Server thread/INFO] [Console/]: [libreforge] things like cooldown messages, lrcdb, and stuff like that, you'll
-Server threadEx[30Jun2025 17:12:40.958] [Server thread/INFO] [Console/]: [libreforge] find it under /plugins/libreforge
-Server threadEx[30Jun2025 17:12:40.958] [Server thread/INFO] [Console/]: [libreforge] 
-Server threadEx[30Jun2025 17:12:40.958] [Server thread/INFO] [Console/]: [libreforge] Don't worry about updating libreforge, it's handled automatically!
-Server threadEx[30Jun2025 17:12:40.958] [Server thread/INFO] [Console/]: [libreforge] 
-Server threadEx[30Jun2025 17:12:40.988] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-Server threadEx[30Jun2025 17:12:41.020] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-Server threadEx[30Jun2025 17:12:41.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-Server threadEx[30Jun2025 17:12:41.392] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 0%
-Worker-Main-1Ex[30Jun2025 17:12:41.557] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 18%
-Worker-Main-1Ex[30Jun2025 17:12:41.666] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 642 ms
-Server threadEx[30Jun2025 17:12:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Error while evaluating expression: 
-#  HERE>> Cambia este número a la cantidad de bots que quieras
-bots_to_spawn := 10
-'este' is not allowed after 'Cambia' in spawn_bots at line 3, pos 3
-Server threadEx[30Jun2025 17:12:41.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Failed to add spawn_bots app
-Server threadEx[30Jun2025 17:12:41.685] [Server thread/INFO] [net.minecraft.class_3176/]: Done (7.981s)! For help, type "help"
-Server threadEx[30Jun2025 17:12:42.768] [Craft Scheduler Thread - 0/INFO] [BlueMap/]: Loading...
-Craft Scheduler Thread - 0Ex[30Jun2025 17:12:42.769] [Craft Scheduler Thread - 5/INFO] [Essentials/]: Fetching version information...
-Craft Scheduler Thread - 5Ex[30Jun2025 17:12:42.773] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: server [2.7.3]
-Server threadEx[30Jun2025 17:12:42.774] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
-Server threadEx[30Jun2025 17:12:42.776] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: statistic [2.0.2]
-Server threadEx[30Jun2025 17:12:42.777] [Server thread/WARN] [PlaceholderAPI/]: Loaded class net.luckperms.api.LuckPerms from LuckPerms v5.4.134 which is not a depend or softdepend of this plugin.
-Server threadEx[30Jun2025 17:12:42.782] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: luckperms [5.4-R2]
-Server threadEx[30Jun2025 17:12:42.782] [Server thread/WARN] [PlaceholderAPI/]: Cannot load expansion vault due to a missing plugin: Vault
-Server threadEx[30Jun2025 17:12:42.782] [Server thread/INFO] [Console/]: 4 placeholder hook(s) registered!
-Server threadEx[30Jun2025 17:12:42.837] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.837] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.838] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.838] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.838] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.839] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.839] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.839] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.7.3[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.839] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m32c7547[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.839] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.839] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.843] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.843] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-Craft Scheduler Thread - 1Ex[30Jun2025 17:12:42.986] [Server thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-Server threadEx[30Jun2025 17:12:43.014] [Server thread/INFO] [Console/]: [eco] Loaded eco
-Server threadEx[30Jun2025 17:12:43.163] [Craft Scheduler Thread - 0/WARN] [BlueMap/]: BlueMap is missing important resources!
-Craft Scheduler Thread - 0Ex[30Jun2025 17:12:43.163] [Craft Scheduler Thread - 0/WARN] [BlueMap/]: You must accept the required file download in order for BlueMap to work!
-Craft Scheduler Thread - 0Ex[30Jun2025 17:12:43.164] [Craft Scheduler Thread - 0/WARN] [BlueMap/]: Please check: /workspaces/papu-serv-plug/servidor_minecraft/plugins/BlueMap/core.conf
-Craft Scheduler Thread - 0Ex[30Jun2025 17:12:43.164] [Craft Scheduler Thread - 0/INFO] [BlueMap/]: If you have changed the config you can simply reload the plugin using: /bluemap reload
-Craft Scheduler Thread - 0Ex[30Jun2025 17:12:43.214] [Server thread/INFO] [Console/]: [libreforge] Loaded §xlibreforge
-Server threadEx[30Jun2025 17:12:43.216] [Craft Scheduler Thread - 4/INFO] [Console/]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
-Craft Scheduler Thread - 4Ex[30Jun2025 17:12:43.427] [Craft Scheduler Thread - 5/WARN] [Essentials/]: There is a new EssentialsX version available for download: 2.21.1.
-Craft Scheduler Thread - 5Ex[30Jun2025 17:12:43.427] [Craft Scheduler Thread - 5/WARN] [Essentials/]: Download it here: https://essentialsx.net/downloads.html?branch=stable
-Craft Scheduler Thread - 5Ex[30Jun2025 17:12:53.213] [User Authenticator #1/INFO] [net.minecraft.class_3248/]: UUID of player davixlapida123 is dc4e3ba7-b98d-365a-925e-d011efff1420
-User Authenticator #1Ex[30Jun2025 17:12:56.026] [Server thread/INFO] [net.minecraft.class_3324/]: davixlapida123[/127.192.42.205:41101] logged in with entity id 36 at (12.464683923843939, 160.04128027323574, -49.9968847255223)
-Server threadEx[30Jun2025 17:12:56.269] [TAB Processing Thread/WARN] [TAB/]: Loaded class net.kyori.adventure.bossbar.BossBar from eco v6.71.3 which is not a depend or softdepend of this plugin.
-TAB Processing ThreadEx[30Jun2025 17:12:56.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixlapida123 joined the game
-Server threadEx[30Jun2025 17:12:56.631] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4466['Bee'/38, l='ServerLevel[world]', x=-37.71, y=66.01, z=-9.72]
-Server threadEx[30Jun2025 17:13:16.179] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 issued server command: /minecraft:tp 5000000 60 5000000
-Server threadEx[30Jun2025 17:13:16.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [davixlapida123: Teleported davixlapida123 to 5000000.500000, 60.000000, 5000000.500000]
-Server threadEx[30Jun2025 17:13:48.387] [Async Chat Thread - #0/INFO] [Console/]: <davixlapida123> asd
-Async Chat Thread - #0Ex[30Jun2025 17:13:56.285] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 issued server command: /tps
-Server threadEx[30Jun2025 17:13:58.039] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 issued server command: /tps
-Server threadEx[30Jun2025 17:14:00.207] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 issued server command: /mem
-Server threadEx[30Jun2025 17:14:35.201] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 issued server command: /schem load papu schem
-Server threadEx[30Jun2025 17:14:38.771] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: davixlapida123 loaded /workspaces/papu-serv-plug/servidor_minecraft/config/worldedit/schematics/papu.schem
-WorldEdit Task Executor - 0Ex[30Jun2025 17:14:41.259] [Server thread/INFO] [net.minecraft.class_3244/]: davixlapida123 issued server command: //paste
-Server threadEx[30Jun2025 17:15:00.120] [Async Chat Thread - #2/INFO] [Console/]: <davixlapida123> asd
-Async Chat Thread - #2Ex[30Jun2025 17:17:30.381] [Async Chat Thread - #4/INFO] [Console/]: <davixlapida123> ast
-Async Chat Thread - #4Ex
+[01Jul2025 04:24:42.756] [Server thread/WARN] [net.minecraft.class_3225/]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=2, y=86, z=37}
+Server threadEx[01Jul2025 04:25:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made shadow a server operator
+Server threadEx[01Jul2025 04:25:11.018] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /lp
+Server threadEx[01Jul2025 04:25:13.958] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /pl
+Server threadEx

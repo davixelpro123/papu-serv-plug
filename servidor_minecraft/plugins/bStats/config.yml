@@ -1,11 +1,5 @@
-# bStats (https://bStats.org) collects some basic information for plugin authors, like how
-# many people use their plugin and their total player count. It's recommended to keep bStats
-# enabled, but if you're not comfortable with this, you can turn this setting off. There is no
-# performance penalty associated with having metrics enabled, and data sent to bStats is fully
-# anonymous.
-
 enabled: true
-serverUuid: 95a1fcbd-6096-4258-b88a-4c230f33e481
+serverUuid: 3766f8fe-79c8-4b77-92b8-8c338172a8a8
 logFailedRequests: false
 logSentData: false
 logResponseStatusText: false
