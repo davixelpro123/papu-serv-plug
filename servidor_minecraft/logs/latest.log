@@ -444,4 +444,200 @@ Server threadEx java.lang.IllegalStateException: Not implemented.
 Server threadEx[01Jul2025 04:25:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made shadow a server operator
 Server threadEx[01Jul2025 04:25:11.018] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /lp
 Server threadEx[01Jul2025 04:25:13.958] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /pl
+Server threadEx[01Jul2025 04:31:48.132] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /tvoidgenerator generate spawn<
+Server threadEx[01Jul2025 04:31:48.146] [Server thread/ERROR] [Minecraft/]: null
+Server threadEx org.bukkit.command.CommandException: Unhandled exception executing command 'tvoidgenerator' in plugin TVoidGenerator v2.0.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:150) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.dispatchCommand(CraftServerMixin.java:913) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:379) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_58590(ServerPlayNetHandlerMixin.java:1319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1307) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: net.minecraft.class_151: Non [a-z0-9/._-] character in path of location: minecraft:spawn<
+	at net.minecraft.class_2960.method_45137(class_2960.java:285) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2960.method_60656(class_2960.java:60) ~[server-intermediary.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.createWorld(CraftServerMixin.java:1233) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.Bukkit.createWorld(Bukkit.java:737) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at commands.Commands.generateWorld(Commands.java:98) ~[?:?]
+	at commands.Commands.onCommand(Commands.java:61) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	... 27 more
+[01Jul2025 04:32:11.552] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /tvoidgenerator generate
+Server threadEx[01Jul2025 04:32:11.558] [Server thread/ERROR] [Minecraft/]: null
+Server threadEx org.bukkit.command.CommandException: Unhandled exception executing command 'tvoidgenerator' in plugin TVoidGenerator v2.0.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:150) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.dispatchCommand(CraftServerMixin.java:913) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:379) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_58590(ServerPlayNetHandlerMixin.java:1319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1307) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoClassDefFoundError: net/kyori/adventure/text/minimessage/MiniMessage
+	at utils.TranslateColors.translateColors(TranslateColors.java:19) ~[?:?]
+	at commands.Commands.translate(Commands.java:173) ~[?:?]
+	at commands.Commands.generateWorld(Commands.java:79) ~[?:?]
+	at commands.Commands.onCommand(Commands.java:61) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.minimessage.MiniMessage
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoaderMixin.java:160) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoaderMixin.java:112) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at utils.TranslateColors.translateColors(TranslateColors.java:19) ~[?:?]
+	at commands.Commands.translate(Commands.java:173) ~[?:?]
+	at commands.Commands.generateWorld(Commands.java:79) ~[?:?]
+	at commands.Commands.onCommand(Commands.java:61) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	... 27 more
+[01Jul2025 04:32:13.232] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /tvoidgenerator generate a
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: -------- World Settings For [a] --------
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.276] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: View Distance: 10
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+Server threadEx[01Jul2025 04:32:13.277] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+Server threadEx[01Jul2025 04:32:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:a
+Server threadEx[01Jul2025 04:32:18.053] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 2%
+Worker-Main-3Ex[01Jul2025 04:32:18.564] [Worker-Main-1/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 2%
+Worker-Main-1Ex[01Jul2025 04:32:19.099] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 18%
+Worker-Main-3Ex[01Jul2025 04:32:19.547] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 18%
+Worker-Main-2Ex[01Jul2025 04:32:20.042] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 18%
+Worker-Main-3Ex[01Jul2025 04:32:20.567] [Worker-Main-2/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 51%
+Worker-Main-2Ex[01Jul2025 04:32:21.085] [Worker-Main-3/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 51%
+Worker-Main-3Ex[01Jul2025 04:32:21.498] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 3457 ms
+Server threadEx[01Jul2025 04:32:21.503] [Server thread/ERROR] [Minecraft/]: null
+Server threadEx org.bukkit.command.CommandException: Unhandled exception executing command 'tvoidgenerator' in plugin TVoidGenerator v2.0.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:150) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.CraftServer.dispatchCommand(CraftServerMixin.java:913) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at org.bukkit.craftbukkit.v1_21_R1.command.BukkitCommandWrapper.run(BukkitCommandWrapper.java:50) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.class_8865.method_54416(class_8865.java:29) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8865.execute(class_8865.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8856.method_54405(class_8856.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8847.method_54388(class_8847.java:8) ~[server-intermediary.jar:?]
+	at net.minecraft.class_8854.method_54390(class_8854.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_54313(CommandsMixin.java:379) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2170.method_9249(CommandsMixin.java:309) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_58590(ServerPlayNetHandlerMixin.java:1319) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_44356(ServerPlayNetHandlerMixin.java:1307) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(BlockableEventLoopMixin.java:162) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServerMixin.java:864) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServerMixin.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(BlockableEventLoopMixin.java:136) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServerMixin.java:846) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServerMixin.java:840) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(BlockableEventLoopMixin.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18857(MinecraftServerMixin.java:810) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServerMixin.java:815) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:702) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.NoClassDefFoundError: net/kyori/adventure/text/minimessage/MiniMessage
+	at utils.TranslateColors.translateColors(TranslateColors.java:19) ~[?:?]
+	at commands.Commands.translate(Commands.java:173) ~[?:?]
+	at commands.Commands.lambda$generateWorld$2(Commands.java:102) ~[?:?]
+	at java.base/java.util.Optional.ifPresentOrElse(Optional.java:196) ~[?:?]
+	at commands.Commands.generateWorld(Commands.java:99) ~[?:?]
+	at commands.Commands.onCommand(Commands.java:61) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	... 27 more
+Caused by: java.lang.ClassNotFoundException: net.kyori.adventure.text.minimessage.MiniMessage
+	at utils.TranslateColors.translateColors(TranslateColors.java:19) ~[?:?]
+	at commands.Commands.translate(Commands.java:173) ~[?:?]
+	at commands.Commands.lambda$generateWorld$2(Commands.java:102) ~[?:?]
+	at java.base/java.util.Optional.ifPresentOrElse(Optional.java:196) ~[?:?]
+	at commands.Commands.generateWorld(Commands.java:99) ~[?:?]
+	at commands.Commands.onCommand(Commands.java:61) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[arclight-1.21-1.0.0-SNAPSHOT-b3349e9.jar:?]
+	... 27 more
+[01Jul2025 04:32:21.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
+Server threadEx[01Jul2025 04:32:28.649] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /mvcreate
+Server threadEx[01Jul2025 04:32:51.497] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /mvcreate world tvoid
+Server threadEx[01Jul2025 04:33:05.520] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /mvcreate papu tvoid
+Server threadEx[01Jul2025 04:33:31.294] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /gm 1
+Server threadEx[01Jul2025 04:33:44.749] [Async Chat Thread - #2/INFO] [Console/]: <shadow> asd
+Async Chat Thread - #2Ex[01Jul2025 04:33:54.744] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /tp´s
+Server threadEx[01Jul2025 04:33:56.175] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /tps
+Server threadEx[01Jul2025 04:34:00.085] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /mem
+Server threadEx[01Jul2025 04:34:06.329] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /tps
+Server threadEx[01Jul2025 04:34:36.410] [Server thread/INFO] [net.minecraft.class_3244/]: shadow issued server command: /ping
+Server threadEx[01Jul2025 04:34:43.195] [Server thread/INFO] [net.minecraft.class_3244/]: shadow lost connection: Timed out
+Server threadEx[01Jul2025 04:34:43.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game.
+Server threadEx[01Jul2025 04:34:43.279] [Server thread/WARN] [net.minecraft.class_2535/]: handleDisconnection() called twice
 Server threadEx

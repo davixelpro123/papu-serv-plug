@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1751344483201
   login: 1751343857754
 money: '0'
 last-account-name: shadow
+logoutlocation:
+  world: ebe0355c-30fe-40a5-bcb4-01fec63d329d
+  world-name: world
+  x: 8.16624969693997
+  y: 97.23152379758702
+  z: 10.065770582159317
+  yaw: -44.399658203125
+  pitch: 17.0999755859375
