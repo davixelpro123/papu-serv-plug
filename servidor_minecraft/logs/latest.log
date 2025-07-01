@@ -2180,3 +2180,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 19:47:32.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> chamba chamba
 [01Jul2025 19:47:40.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> cham chamba chamba chamba
 [01Jul2025 19:47:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> mil
+[01Jul2025 19:52:17.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 19:52:17.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 19:52:17.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 19:52:32.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 19:52:32.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 19:52:32.478] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
+[01Jul2025 20:00:16.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shadow[/127.191.140.51:41647] logged in with entity id 6477 at (-783.7178790183339, 94.25105962434597, 15.436362706504173)
+[01Jul2025 20:00:16.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+[01Jul2025 20:00:17.793] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shadow (18)
+[01Jul2025 20:00:17.794] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
