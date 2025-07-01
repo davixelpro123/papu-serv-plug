@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "driftwood_upgrade_aquatic_table_dinner",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:driftwood_upgrade_aquatic_table_dinner"
+        }
+      ]
+    }
+  ]
+}

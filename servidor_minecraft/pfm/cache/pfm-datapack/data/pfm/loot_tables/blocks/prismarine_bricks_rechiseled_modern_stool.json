@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "prismarine_bricks_rechiseled_modern_stool",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:prismarine_bricks_rechiseled_modern_stool"
+        }
+      ]
+    }
+  ]
+}

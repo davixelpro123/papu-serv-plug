@@ -1,0 +1,45 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "bedroom",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "aether:skyroot",
+    "cataclysm:chorus",
+    "deeperdarker:echo",
+    "upgrade_aquatic:driftwood",
+    "upgrade_aquatic:river",
+    "endergetic:poise",
+    "boh:black_walnut",
+    "boh:dogwood",
+    "boh:sassafras",
+    "alexscaves:pewen",
+    "alexscaves:thornwood",
+    "spawn:rotten"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:yellow_bed"
+      }
+    ],
+    "variantChildren": {
+      "base": 5
+    }
+  },
+  "result": {
+    "outputClass": "SimpleBedBlock",
+    "tag": {
+      "color": "yellow"
+    }
+  }
+}

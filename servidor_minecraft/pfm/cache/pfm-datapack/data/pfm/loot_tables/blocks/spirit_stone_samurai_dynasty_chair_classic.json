@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "spirit_stone_samurai_dynasty_chair_classic",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:spirit_stone_samurai_dynasty_chair_classic"
+        }
+      ]
+    }
+  ]
+}

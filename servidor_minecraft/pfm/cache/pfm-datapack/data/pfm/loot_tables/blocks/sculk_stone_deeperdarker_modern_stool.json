@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "sculk_stone_deeperdarker_modern_stool",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:sculk_stone_deeperdarker_modern_stool"
+        }
+      ]
+    }
+  ]
+}

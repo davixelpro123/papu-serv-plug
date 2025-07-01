@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "name": "poise_endergetic_chair_modern",
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:poise_endergetic_chair_modern"
+        }
+      ]
+    }
+  ]
+}
