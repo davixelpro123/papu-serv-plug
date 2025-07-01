@@ -2190,3 +2190,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 20:00:16.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
 [01Jul2025 20:00:17.793] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shadow (18)
 [01Jul2025 20:00:17.794] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 20:00:46.489] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:00:47.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:00:47.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
+[01Jul2025 20:02:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> asd
+[01Jul2025 20:05:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> tu conbinas con el mar
+[01Jul2025 20:07:20.445] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 20:07:20.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 20:07:20.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 20:07:32.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 20:07:32.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 20:07:32.234] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow

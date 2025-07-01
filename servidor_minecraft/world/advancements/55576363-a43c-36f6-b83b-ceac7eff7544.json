@@ -294,9 +294,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_sword_repairing": {
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
-      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
+      "loot_simple_dungeon": "2025-07-01 19:43:17 +0000"
     },
     "done": true
   },
@@ -336,21 +336,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/nail_sword": {
-    "criteria": {
-      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
-    },
-    "done": true
-  },
   "endergetic:recipes/tools/pink_bolloom_balloon": {
     "criteria": {
       "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/nail_glaive": {
-    "criteria": {
-      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
     },
     "done": true
   },
@@ -372,12 +360,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/khopesh": {
-    "criteria": {
-      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
-    },
-    "done": true
-  },
   "endergetic:recipes/tools/blue_bolloom_balloon": {
     "criteria": {
       "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
@@ -396,15 +378,45 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-07-01 19:51:05 +0000"
-    },
-    "done": true
-  },
   "endergetic:recipes/tools/brown_bolloom_balloon": {
     "criteria": {
       "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
+    },
+    "done": true
+  },
+  "endergetic:recipes/tools/magenta_bolloom_balloon": {
+    "criteria": {
+      "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
+    },
+    "done": true
+  },
+  "endergetic:recipes/tools/gray_bolloom_balloon": {
+    "criteria": {
+      "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_netherite_sword": "2025-07-01 19:51:01 +0000"
     },
     "done": true
   },
@@ -420,21 +432,9 @@
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "loot_simple_dungeon": "2025-07-01 19:43:17 +0000"
-    },
-    "done": true
-  },
-  "endergetic:recipes/tools/magenta_bolloom_balloon": {
-    "criteria": {
-      "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
-    },
-    "done": true
-  },
-  "endergetic:recipes/tools/gray_bolloom_balloon": {
-    "criteria": {
-      "has_bolloom_balloon": "2025-07-01 19:49:34 +0000"
+      "killed_something": "2025-07-01 19:51:05 +0000"
     },
     "done": true
   },
