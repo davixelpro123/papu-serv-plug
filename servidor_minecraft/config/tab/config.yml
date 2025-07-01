@@ -2,19 +2,20 @@
 header-footer:
   enabled: true
   header:
-    - "<#FFFFFF>&m                                                </#FFFF00>"
-    - "&3&lServer name"
-    - "&r&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
+    - "&#BC83FF&l-&#BB7FFF&l-&#BA7AFE&l-&#B976FE&l-&#B872FE&l-&#B76DFD&l-&#B669FD&l-&#B565FD&l-&#B461FD&l-&#B25CFC&l-&#B158FC&l-&#B054FC&l-&#AF4FFB&l-&#AE4BFB&l-&#AD47FB&l-&#AC42FA&l-&#AB3EFA&l-&#AC42FA&l-&#AD47FB&l-&#AE4BFB&l-&#AF4FFB&l-&#B054FC&l-&#B158FC&l-&#B25CFC&l-&#B461FD&l-&#B565FD&l-&#B669FD&l-&#B76DFD&l-&#B872FE&l-&#B976FE&l-&#BA7AFE&l-&#BB7FFF&l-&#BC83FF&l-"
+    - ""
+    - "&#BC83FF&lI &#B66CFD&la&#B461FD&lm &#AE4AFB&la&#AB3EFA&lt&#AE4CFB&lo&#B25AFC&lm&#B567FD&li&#B975FE&lc"
+    - ""
     - "&r&7Online players: &f%online%"
-    - "&6Online staff: &e%staffonline%"
+    - ""
     - ""
   footer:
-    - "%animation:time%"
-    - "&2Ping: %ping%"
-    - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
     - ""
-    - "&r&7Visit our webpage %animation:web%"
-    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - ""
+    - ""
+    - "%animation:time%"
+    - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
+    - "&#BC83FF&l-&#BB7FFF&l-&#BA7AFE&l-&#B976FE&l-&#B872FE&l-&#B76DFD&l-&#B669FD&l-&#B565FD&l-&#B461FD&l-&#B25CFC&l-&#B158FC&l-&#B054FC&l-&#AF4FFB&l-&#AE4BFB&l-&#AD47FB&l-&#AC42FA&l-&#AB3EFA&l-&#AC42FA&l-&#AD47FB&l-&#AE4BFB&l-&#AF4FFB&l-&#B054FC&l-&#B158FC&l-&#B25CFC&l-&#B461FD&l-&#B565FD&l-&#B669FD&l-&#B76DFD&l-&#B872FE&l-&#B976FE&l-&#BA7AFE&l-&#BB7FFF&l-&#BC83FF&l-"
   disable-condition: '%world%=disabledworld'
   per-world:
     world1:
