@@ -2237,3 +2237,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 20:32:38.667] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@274485b1[id=<null>,name=shadow,properties={},legacy=false] (/127.191.140.51:46273): Took too long to log in
 [01Jul2025 20:32:38.668] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@274485b1[id=<null>,name=shadow,properties={},legacy=false] (/127.191.140.51:46273) lost connection: Took too long to log in
 [01Jul2025 20:32:38.717] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 20:53:39.667] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@49b76e3a[id=<null>,name=shadow,properties={},legacy=false] (/127.191.140.51:36989): Took too long to log in
+[01Jul2025 20:53:39.667] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49b76e3a[id=<null>,name=shadow,properties={},legacy=false] (/127.191.140.51:36989) lost connection: Took too long to log in
+[01Jul2025 20:53:39.717] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jul2025 20:56:34.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shadow[/127.191.140.51:54413] logged in with entity id 9957 at (-211.29124722833248, 91.0, 904.7158330551965)
+[01Jul2025 20:56:34.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+[01Jul2025 20:56:35.247] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shadow (18)
+[01Jul2025 20:56:35.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 20:56:51.354] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:56:52.364] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:56:52.365] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
+[01Jul2025 20:57:15.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 20:57:15.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 20:57:15.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 20:57:19.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:57:20.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 20:57:20.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
+[01Jul2025 20:57:41.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 20:57:41.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 20:57:41.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 20:57:49.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 20:57:49.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 20:57:49.280] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
+[01Jul2025 21:00:16.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shadow[/127.191.140.51:39647] logged in with entity id 10255 at (-211.29124722833248, 91.0, 904.7158330551965)
+[01Jul2025 21:00:16.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+[01Jul2025 21:00:19.214] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shadow (18)
+[01Jul2025 21:00:19.215] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 21:00:35.274] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10282, l='ServerLevel[world]', x=-207.70, y=64.00, z=937.30] died, message: 'Farmer was slain by Zombie'
+[01Jul2025 21:00:46.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 21:00:46.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 21:00:46.630] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
