@@ -2133,3 +2133,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 18:39:39.562] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 11ms
 [01Jul2025 18:39:45.389] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
 [01Jul2025 18:39:45.401] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 11ms
+[01Jul2025 18:39:57.565] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 18:39:57.580] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 14ms
+[01Jul2025 18:40:16.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[01Jul2025 18:41:17.461] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:plains took 142 ms
+[01Jul2025 18:41:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [shadow: Teleported shadow to -371.500000, 79.000000, 320.500000]
+[01Jul2025 18:41:22.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[01Jul2025 18:41:34.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[01Jul2025 18:41:45.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 18:41:45.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 18:41:45.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 18:41:54.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 18:41:54.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 18:41:54.262] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
+[01Jul2025 18:43:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jul2025 18:43:10.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: h<--[HERE]
+[01Jul2025 18:43:13.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shadow[/127.191.140.51:39907] logged in with entity id 2696 at (-371.5, 83.57535812179698, 320.29999999999995)
+[01Jul2025 18:43:13.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+[01Jul2025 18:43:14.476] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of shadow (18)
+[01Jul2025 18:43:14.476] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 18:43:28.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 18:43:29.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 55576363-a43c-36f6-b83b-ceac7eff7544
+[01Jul2025 18:43:29.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
+[01Jul2025 18:48:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> asd
