@@ -5,6 +5,18 @@
     },
     "done": true
   },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-07-01 18:24:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-01 18:24:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-07-01 18:24:22 +0000"
@@ -17,12 +29,6 @@
     },
     "done": true
   },
-  "pfm:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-07-01 18:24:21 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-07-01 18:24:22 +0000"
@@ -32,12 +38,6 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-01 18:24:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-07-01 18:24:21 +0000"
     },
     "done": true
   },

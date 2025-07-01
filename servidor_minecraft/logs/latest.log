@@ -2114,3 +2114,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 18:29:11.036] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
 [01Jul2025 18:29:48.367] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
 [01Jul2025 18:29:48.393] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 26ms
+[01Jul2025 18:36:06.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[01Jul2025 18:36:12.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[01Jul2025 18:36:36.064] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 18:36:36.091] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 26ms
+[01Jul2025 18:37:53.629] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 1ms
+[01Jul2025 18:37:53.645] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 15ms
+[01Jul2025 18:38:56.410] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 18:38:56.425] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 14ms
+[01Jul2025 18:39:09.118] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[01Jul2025 18:39:21.948] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 18:39:21.962] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 13ms
+[01Jul2025 18:39:30.279] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 18:39:30.292] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 12ms
+[01Jul2025 18:39:38.127] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 18:39:38.140] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 12ms
+[01Jul2025 18:39:39.550] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 18:39:39.562] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 11ms
+[01Jul2025 18:39:45.389] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Disabled in 0ms
+[01Jul2025 18:39:45.401] [Server thread/INFO] [me.neznamy.tab.platforms.forge.ForgePlatform/]: [TAB] Enabled in 11ms
