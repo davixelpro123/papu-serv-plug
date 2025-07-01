@@ -1,5 +1,42 @@
 {
   "render-threads-enabled": true,
-  "maps": {},
+  "maps": {
+    "world_aether_the_aether": {
+      "update-enabled": true
+    },
+    "world_modminds_mounstrosity_dimension": {
+      "update-enabled": true
+    },
+    "world_boh_level_0": {
+      "update-enabled": true
+    },
+    "world_modminds_limbo": {
+      "update-enabled": true
+    },
+    "world_arphex_the_webrooms": {
+      "update-enabled": true
+    },
+    "world_boh_boiler_room_dimension": {
+      "update-enabled": true
+    },
+    "world_arphex_the_crawling": {
+      "update-enabled": true
+    },
+    "world": {
+      "update-enabled": true
+    },
+    "world_boh_gaster_dimension": {
+      "update-enabled": true
+    },
+    "world_deeperdarker_otherside": {
+      "update-enabled": true
+    },
+    "world_the_nether": {
+      "update-enabled": true
+    },
+    "world_the_end": {
+      "update-enabled": true
+    }
+  },
   "hidden-players": []
 }

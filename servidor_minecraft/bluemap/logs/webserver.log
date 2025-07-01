@@ -1,727 +1,843 @@
-[2025-07-01 08:45:08][INFO] /0:0:0:0:0:0:0:1 "GET / HTTP/1.1" 200 OK
-[2025-07-01 08:45:09][INFO] /0:0:0:0:0:0:0:1 "GET /assets/index-58a9319d.js HTTP/1.1" 200 OK
-[2025-07-01 08:45:10][INFO] /0:0:0:0:0:0:0:1 "GET /assets/index-fa43c574.css HTTP/1.1" 200 OK
-[2025-07-01 08:45:12][INFO] /0:0:0:0:0:0:0:1 "GET /lang/settings.conf HTTP/1.1" 200 OK
-[2025-07-01 08:45:13][INFO] /0:0:0:0:0:0:0:1 "GET /lang/en.conf HTTP/1.1" 200 OK
-[2025-07-01 08:45:13][INFO] /0:0:0:0:0:0:0:1 "GET /assets/favicon-8768b872.png HTTP/1.1" 200 OK
-[2025-07-01 08:45:14][INFO] /0:0:0:0:0:0:0:1 "GET /assets/Quicksand-06927fae.ttf HTTP/1.1" 200 OK
-[2025-07-01 08:45:15][INFO] /0:0:0:0:0:0:0:1 "GET /settings.json?583888 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_arphex_the_crawling/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_boh_gaster_dimension/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_the_end/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_deeperdarker_otherside/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_boh_level_0/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_arphex_the_webrooms/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_modminds_limbo/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_the_nether/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_modminds_mounstrosity_dimension/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_boh_boiler_room_dimension/settings.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/textures.json?488844 HTTP/1.1" 200 OK
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?320702 HTTP/1.1" 200 OK
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?820131 HTTP/1.1" 200 OK
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?179915 HTTP/1.1" 200 OK
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?857825 HTTP/1.1" 200 OK
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?615088 HTTP/1.1" 200 OK
-[2025-07-01 08:45:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?439507 HTTP/1.1" 200 OK
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?588721 HTTP/1.1" 200 OK
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?999853 HTTP/1.1" 200 OK
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?163414 HTTP/1.1" 200 OK
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?654032 HTTP/1.1" 200 OK
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?676906 HTTP/1.1" 200 OK
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x6/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x5/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x8/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/0/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/6/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/9/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/7/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x7/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/9/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x7/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/6/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x7/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x7/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/6/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x8/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/7/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/8/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/4/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/7/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x7/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/5/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x8/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/6/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/5/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/1/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x7/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x6/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/8/z-6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/5/z-7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/3/z-7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/1/z-6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x8/z-6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x6/z-5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z-4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?994220 HTTP/1.1" 200 OK
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x3/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-4/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?946036 HTTP/1.1" 200 OK
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?401974 HTTP/1.1" 200 OK
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x3/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x4/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x4/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?149011 HTTP/1.1" 200 OK
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-4/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-5/z2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?358 HTTP/1.1" 200 OK
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x3/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?938488 HTTP/1.1" 200 OK
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z1/0.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?775185 HTTP/1.1" 200 OK
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z8.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z7.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z5.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z6.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z9.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z4.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-5/z3.png?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?814523 HTTP/1.1" 200 OK
-[2025-07-01 08:45:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?224700 HTTP/1.1" 200 OK
-[2025-07-01 08:45:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?196732 HTTP/1.1" 200 OK
-[2025-07-01 08:45:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?24667 HTTP/1.1" 200 OK
-[2025-07-01 08:45:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?106960 HTTP/1.1" 200 OK
-[2025-07-01 08:45:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?227538 HTTP/1.1" 200 OK
-[2025-07-01 08:45:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?125948 HTTP/1.1" 200 OK
-[2025-07-01 08:45:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?932151 HTTP/1.1" 200 OK
-[2025-07-01 08:45:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?897115 HTTP/1.1" 200 OK
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?967496 HTTP/1.1" 200 OK
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-1/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x0/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x0/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-1/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-2/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:45:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-2/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-2/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-1/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?801627 HTTP/1.1" 200 OK
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x0/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x1/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x1/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x1/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x1/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x0/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-1/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-2/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-3/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-3/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-3/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-3/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-3/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-2/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-1/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x0/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?941171 HTTP/1.1" 200 OK
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x1/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x2/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x2/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x2/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x2/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x2/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x2/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x1/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?692113 HTTP/1.1" 200 OK
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x0/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-2/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-1/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-3/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-4/z9/7.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-4/z9/6.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-4/z9/9.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-4/z9/8.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?817134 HTTP/1.1" 200 OK
-[2025-07-01 08:46:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-4/z9/5.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?650067 HTTP/1.1" 200 OK
-[2025-07-01 08:46:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/0/x-4/z9/4.prbm?488844 HTTP/1.1" 204 No Content
-[2025-07-01 08:46:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?165353 HTTP/1.1" 200 OK
-[2025-07-01 08:46:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?332941 HTTP/1.1" 200 OK
-[2025-07-01 08:46:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?157566 HTTP/1.1" 200 OK
-[2025-07-01 08:46:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?472770 HTTP/1.1" 200 OK
-[2025-07-01 08:46:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?646136 HTTP/1.1" 200 OK
-[2025-07-01 08:46:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?285344 HTTP/1.1" 200 OK
-[2025-07-01 08:46:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?586755 HTTP/1.1" 200 OK
-[2025-07-01 08:46:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?393069 HTTP/1.1" 200 OK
-[2025-07-01 08:46:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?145743 HTTP/1.1" 200 OK
-[2025-07-01 08:46:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?202236 HTTP/1.1" 200 OK
-[2025-07-01 08:46:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?284422 HTTP/1.1" 200 OK
-[2025-07-01 08:46:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?566715 HTTP/1.1" 200 OK
-[2025-07-01 08:46:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?405873 HTTP/1.1" 200 OK
-[2025-07-01 08:46:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?526360 HTTP/1.1" 200 OK
-[2025-07-01 08:46:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?499760 HTTP/1.1" 200 OK
-[2025-07-01 08:46:43][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?404635 HTTP/1.1" 200 OK
-[2025-07-01 08:46:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?758343 HTTP/1.1" 200 OK
-[2025-07-01 08:46:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?68928 HTTP/1.1" 200 OK
-[2025-07-01 08:46:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?142736 HTTP/1.1" 200 OK
-[2025-07-01 08:46:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?296181 HTTP/1.1" 200 OK
-[2025-07-01 08:46:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?696333 HTTP/1.1" 200 OK
-[2025-07-01 08:46:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?753637 HTTP/1.1" 200 OK
-[2025-07-01 08:46:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?703318 HTTP/1.1" 200 OK
-[2025-07-01 08:46:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?110121 HTTP/1.1" 200 OK
-[2025-07-01 08:47:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?702154 HTTP/1.1" 200 OK
-[2025-07-01 08:47:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?56534 HTTP/1.1" 200 OK
-[2025-07-01 08:47:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?485570 HTTP/1.1" 200 OK
-[2025-07-01 08:47:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?438173 HTTP/1.1" 200 OK
-[2025-07-01 08:47:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?75486 HTTP/1.1" 200 OK
-[2025-07-01 08:47:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?548909 HTTP/1.1" 200 OK
-[2025-07-01 08:47:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?661348 HTTP/1.1" 200 OK
-[2025-07-01 08:47:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?986451 HTTP/1.1" 200 OK
-[2025-07-01 08:47:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?649474 HTTP/1.1" 200 OK
-[2025-07-01 08:47:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?382586 HTTP/1.1" 200 OK
-[2025-07-01 08:47:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?148573 HTTP/1.1" 200 OK
-[2025-07-01 08:47:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?421562 HTTP/1.1" 200 OK
-[2025-07-01 08:47:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?205540 HTTP/1.1" 200 OK
-[2025-07-01 08:47:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?945637 HTTP/1.1" 200 OK
-[2025-07-01 08:47:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?346494 HTTP/1.1" 200 OK
-[2025-07-01 08:47:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?759490 HTTP/1.1" 200 OK
-[2025-07-01 08:47:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?38772 HTTP/1.1" 200 OK
-[2025-07-01 08:47:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?961777 HTTP/1.1" 200 OK
-[2025-07-01 08:47:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?732402 HTTP/1.1" 200 OK
-[2025-07-01 08:47:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?977769 HTTP/1.1" 200 OK
-[2025-07-01 08:47:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?862836 HTTP/1.1" 200 OK
-[2025-07-01 08:47:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?215284 HTTP/1.1" 200 OK
-[2025-07-01 08:47:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?154290 HTTP/1.1" 200 OK
-[2025-07-01 08:47:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?673295 HTTP/1.1" 200 OK
-[2025-07-01 08:47:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?30659 HTTP/1.1" 200 OK
-[2025-07-01 08:47:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?492258 HTTP/1.1" 200 OK
-[2025-07-01 08:47:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?873451 HTTP/1.1" 200 OK
-[2025-07-01 08:47:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?93106 HTTP/1.1" 200 OK
-[2025-07-01 08:47:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?626042 HTTP/1.1" 200 OK
-[2025-07-01 08:47:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?504540 HTTP/1.1" 200 OK
-[2025-07-01 08:47:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?484061 HTTP/1.1" 200 OK
-[2025-07-01 08:47:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?297606 HTTP/1.1" 200 OK
-[2025-07-01 08:47:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?301558 HTTP/1.1" 200 OK
-[2025-07-01 08:47:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?221426 HTTP/1.1" 200 OK
-[2025-07-01 08:48:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?784139 HTTP/1.1" 200 OK
-[2025-07-01 08:48:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?491377 HTTP/1.1" 200 OK
-[2025-07-01 08:48:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?256062 HTTP/1.1" 200 OK
-[2025-07-01 08:48:06][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?735548 HTTP/1.1" 200 OK
-[2025-07-01 08:48:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?170433 HTTP/1.1" 200 OK
-[2025-07-01 08:48:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?852328 HTTP/1.1" 200 OK
-[2025-07-01 08:48:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?937908 HTTP/1.1" 200 OK
-[2025-07-01 08:48:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?783510 HTTP/1.1" 200 OK
-[2025-07-01 08:48:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?780203 HTTP/1.1" 200 OK
-[2025-07-01 08:48:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?415763 HTTP/1.1" 200 OK
-[2025-07-01 08:48:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?267493 HTTP/1.1" 200 OK
-[2025-07-01 08:48:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?856928 HTTP/1.1" 200 OK
-[2025-07-01 08:48:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?41642 HTTP/1.1" 200 OK
-[2025-07-01 08:48:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?722375 HTTP/1.1" 200 OK
-[2025-07-01 08:48:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?643357 HTTP/1.1" 200 OK
-[2025-07-01 08:48:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?677659 HTTP/1.1" 200 OK
-[2025-07-01 08:48:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?504670 HTTP/1.1" 200 OK
-[2025-07-01 08:48:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?427330 HTTP/1.1" 200 OK
-[2025-07-01 08:48:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?278101 HTTP/1.1" 200 OK
-[2025-07-01 08:48:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?502376 HTTP/1.1" 200 OK
-[2025-07-01 08:48:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?154483 HTTP/1.1" 200 OK
-[2025-07-01 08:48:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?552011 HTTP/1.1" 200 OK
-[2025-07-01 08:48:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?394052 HTTP/1.1" 200 OK
-[2025-07-01 08:48:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?913845 HTTP/1.1" 200 OK
-[2025-07-01 08:48:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?613868 HTTP/1.1" 200 OK
-[2025-07-01 08:48:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?684731 HTTP/1.1" 200 OK
-[2025-07-01 08:48:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?845176 HTTP/1.1" 200 OK
-[2025-07-01 08:48:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?698052 HTTP/1.1" 200 OK
-[2025-07-01 08:48:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?36765 HTTP/1.1" 200 OK
-[2025-07-01 08:48:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?895352 HTTP/1.1" 200 OK
-[2025-07-01 08:48:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?502429 HTTP/1.1" 200 OK
-[2025-07-01 08:48:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?714310 HTTP/1.1" 200 OK
-[2025-07-01 08:48:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?800044 HTTP/1.1" 200 OK
-[2025-07-01 08:49:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?844466 HTTP/1.1" 200 OK
-[2025-07-01 08:49:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?593102 HTTP/1.1" 200 OK
-[2025-07-01 08:49:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?799735 HTTP/1.1" 200 OK
-[2025-07-01 08:49:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?907389 HTTP/1.1" 200 OK
-[2025-07-01 08:49:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?864119 HTTP/1.1" 200 OK
-[2025-07-01 08:49:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?703811 HTTP/1.1" 200 OK
-[2025-07-01 08:49:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?347332 HTTP/1.1" 200 OK
-[2025-07-01 08:49:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?520070 HTTP/1.1" 200 OK
-[2025-07-01 08:49:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?10140 HTTP/1.1" 200 OK
-[2025-07-01 08:49:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?511990 HTTP/1.1" 200 OK
-[2025-07-01 08:49:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?780327 HTTP/1.1" 200 OK
-[2025-07-01 08:49:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?319892 HTTP/1.1" 200 OK
-[2025-07-01 08:49:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?102414 HTTP/1.1" 200 OK
-[2025-07-01 08:49:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?326983 HTTP/1.1" 200 OK
-[2025-07-01 08:49:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?820917 HTTP/1.1" 200 OK
-[2025-07-01 08:49:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?697526 HTTP/1.1" 200 OK
-[2025-07-01 08:49:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?288417 HTTP/1.1" 200 OK
-[2025-07-01 08:49:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?449890 HTTP/1.1" 200 OK
-[2025-07-01 08:49:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?334512 HTTP/1.1" 200 OK
-[2025-07-01 08:49:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?903262 HTTP/1.1" 200 OK
-[2025-07-01 08:49:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?135077 HTTP/1.1" 200 OK
-[2025-07-01 08:49:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?358127 HTTP/1.1" 200 OK
-[2025-07-01 08:49:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?990659 HTTP/1.1" 200 OK
-[2025-07-01 08:49:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?55629 HTTP/1.1" 200 OK
-[2025-07-01 08:49:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?839942 HTTP/1.1" 200 OK
-[2025-07-01 08:49:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?803805 HTTP/1.1" 200 OK
-[2025-07-01 08:49:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?692886 HTTP/1.1" 200 OK
-[2025-07-01 08:49:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?272146 HTTP/1.1" 200 OK
-[2025-07-01 08:49:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?668369 HTTP/1.1" 200 OK
-[2025-07-01 08:50:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?666361 HTTP/1.1" 200 OK
-[2025-07-01 08:50:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?909747 HTTP/1.1" 200 OK
+[2025-07-01 08:56:55][INFO] /0:0:0:0:0:0:0:1 "GET / HTTP/1.1" 200 OK
+[2025-07-01 08:56:58][INFO] /0:0:0:0:0:0:0:1 "GET /settings.json?581024 HTTP/1.1" 200 OK
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/markers.json?5526 HTTP/1.1" 200 OK
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?87028 HTTP/1.1" 200 OK
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?861416 HTTP/1.1" 200 OK
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/live/players.json?540663 HTTP/1.1" 200 OK
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x0/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x0/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x-3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x0/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/3/x1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/2/x-1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world_aether_the_aether/tiles/1/x-4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/textures.json?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?5036 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?689166 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z-1.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z-1.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z-1.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z-1.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z-1.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z-1.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z0.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z0.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z0.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z0.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z0.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z0.png?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?642557 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?374560 HTTP/1.1" 200 OK
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?469365 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?151239 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?184581 HTTP/1.1" 200 OK
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?786159 HTTP/1.1" 200 OK
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?279324 HTTP/1.1" 200 OK
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?308297 HTTP/1.1" 200 OK
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?489619 HTTP/1.1" 200 OK
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?378493 HTTP/1.1" 200 OK
+[2025-07-01 08:57:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?43531 HTTP/1.1" 200 OK
+[2025-07-01 08:57:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?981749 HTTP/1.1" 200 OK
+[2025-07-01 08:57:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?618363 HTTP/1.1" 200 OK
+[2025-07-01 08:57:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?880281 HTTP/1.1" 200 OK
+[2025-07-01 08:57:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?249572 HTTP/1.1" 200 OK
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-9/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?52354 HTTP/1.1" 200 OK
+[2025-07-01 08:57:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?830160 HTTP/1.1" 200 OK
+[2025-07-01 08:57:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?542088 HTTP/1.1" 200 OK
+[2025-07-01 08:57:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?589053 HTTP/1.1" 200 OK
+[2025-07-01 08:57:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?888417 HTTP/1.1" 200 OK
+[2025-07-01 08:57:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?716971 HTTP/1.1" 200 OK
+[2025-07-01 08:57:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?921784 HTTP/1.1" 200 OK
+[2025-07-01 08:57:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?760429 HTTP/1.1" 200 OK
+[2025-07-01 08:57:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?639476 HTTP/1.1" 200 OK
+[2025-07-01 08:57:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?796159 HTTP/1.1" 200 OK
+[2025-07-01 08:57:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?829425 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x3/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x3/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x2/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x3/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x2/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x2/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x1/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x1/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x0/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x0/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x1/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-2/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-1/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-1/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x0/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-2/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-3/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-1/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-3/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-3/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-2/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-4/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-4/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-4/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?973898 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?478259 HTTP/1.1" 200 OK
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?635225 HTTP/1.1" 200 OK
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?200853 HTTP/1.1" 200 OK
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?95305 HTTP/1.1" 200 OK
+[2025-07-01 08:57:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?563455 HTTP/1.1" 200 OK
+[2025-07-01 08:57:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z0.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?133912 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:57:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?784902 HTTP/1.1" 200 OK
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?656216 HTTP/1.1" 200 OK
+[2025-07-01 08:57:55][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?654555 HTTP/1.1" 200 OK
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?575737 HTTP/1.1" 200 OK
+[2025-07-01 08:57:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:57:57][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?643624 HTTP/1.1" 200 OK
+[2025-07-01 08:57:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?611906 HTTP/1.1" 200 OK
+[2025-07-01 08:57:59][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?947186 HTTP/1.1" 200 OK
+[2025-07-01 08:58:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?580840 HTTP/1.1" 200 OK
+[2025-07-01 08:58:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?532576 HTTP/1.1" 200 OK
+[2025-07-01 08:58:03][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?246948 HTTP/1.1" 200 OK
+[2025-07-01 08:58:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?756287 HTTP/1.1" 200 OK
+[2025-07-01 08:58:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?423202 HTTP/1.1" 200 OK
+[2025-07-01 08:58:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?613594 HTTP/1.1" 200 OK
+[2025-07-01 08:58:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?782860 HTTP/1.1" 200 OK
+[2025-07-01 08:58:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?636213 HTTP/1.1" 200 OK
+[2025-07-01 08:58:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?756278 HTTP/1.1" 200 OK
+[2025-07-01 08:58:11][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?819292 HTTP/1.1" 200 OK
+[2025-07-01 08:58:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-1.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?497666 HTTP/1.1" 200 OK
+[2025-07-01 08:58:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?934874 HTTP/1.1" 200 OK
+[2025-07-01 08:58:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?36617 HTTP/1.1" 200 OK
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?310878 HTTP/1.1" 200 OK
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-2.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?255241 HTTP/1.1" 200 OK
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:19][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?761407 HTTP/1.1" 200 OK
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?741305 HTTP/1.1" 200 OK
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-4.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-3.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?453182 HTTP/1.1" 200 OK
+[2025-07-01 08:58:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?209673 HTTP/1.1" 200 OK
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x7/z-5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?808762 HTTP/1.1" 200 OK
+[2025-07-01 08:58:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?71225 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?708701 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:26][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-7.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-7.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?741695 HTTP/1.1" 200 OK
+[2025-07-01 08:58:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x6/z-6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x0/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x1/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x2/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x4/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x3/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?870358 HTTP/1.1" 200 OK
+[2025-07-01 08:58:30][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?496370 HTTP/1.1" 200 OK
+[2025-07-01 08:58:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?701161 HTTP/1.1" 200 OK
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?326324 HTTP/1.1" 200 OK
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x-5/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?357588 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:35][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?564737 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-5.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-7.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-6/z-6.prbm?488844 HTTP/1.1" 200 OK
+[2025-07-01 08:58:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?903392 HTTP/1.1" 200 OK
+[2025-07-01 08:58:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-5/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-4/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-3/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-2/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-1/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?629098 HTTP/1.1" 200 OK
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-7.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-8.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-7/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-6.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x-8/z-7.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?301920 HTTP/1.1" 200 OK
+[2025-07-01 08:58:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?186369 HTTP/1.1" 200 OK
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?568024 HTTP/1.1" 200 OK
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-4.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z-1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z0.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/1/x4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z3.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/2/x4/z1.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/3/x4/z2.png?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-5.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z0.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-3.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-1.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-2.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/tiles/0/x5/z-4.prbm?488844 HTTP/1.1" 204 No Content
+[2025-07-01 08:58:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?430774 HTTP/1.1" 200 OK
+[2025-07-01 08:58:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?361746 HTTP/1.1" 200 OK
+[2025-07-01 08:58:45][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?843873 HTTP/1.1" 200 OK
+[2025-07-01 08:58:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?844006 HTTP/1.1" 200 OK
+[2025-07-01 08:58:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?714938 HTTP/1.1" 200 OK
+[2025-07-01 08:58:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?740368 HTTP/1.1" 200 OK
+[2025-07-01 08:58:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?719501 HTTP/1.1" 200 OK
+[2025-07-01 08:58:52][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?84203 HTTP/1.1" 200 OK
+[2025-07-01 08:58:54][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?592299 HTTP/1.1" 200 OK
+[2025-07-01 08:58:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?77740 HTTP/1.1" 200 OK
+[2025-07-01 08:58:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?956907 HTTP/1.1" 200 OK
+[2025-07-01 08:59:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?92461 HTTP/1.1" 200 OK
+[2025-07-01 08:59:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?837779 HTTP/1.1" 200 OK
+[2025-07-01 08:59:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?273581 HTTP/1.1" 200 OK
+[2025-07-01 08:59:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?985493 HTTP/1.1" 200 OK
+[2025-07-01 08:59:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?907975 HTTP/1.1" 200 OK
+[2025-07-01 08:59:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?414724 HTTP/1.1" 200 OK
+[2025-07-01 08:59:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?528035 HTTP/1.1" 200 OK
+[2025-07-01 08:59:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?127428 HTTP/1.1" 200 OK
+[2025-07-01 08:59:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?204530 HTTP/1.1" 200 OK
+[2025-07-01 08:59:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?210546 HTTP/1.1" 200 OK
+[2025-07-01 08:59:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?860518 HTTP/1.1" 200 OK
+[2025-07-01 08:59:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?293632 HTTP/1.1" 200 OK
+[2025-07-01 08:59:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?484424 HTTP/1.1" 200 OK
+[2025-07-01 08:59:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?940987 HTTP/1.1" 200 OK
+[2025-07-01 08:59:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?679295 HTTP/1.1" 200 OK
+[2025-07-01 08:59:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?964450 HTTP/1.1" 200 OK
+[2025-07-01 08:59:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?12506 HTTP/1.1" 200 OK
+[2025-07-01 08:59:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?522384 HTTP/1.1" 200 OK
+[2025-07-01 08:59:32][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?422980 HTTP/1.1" 200 OK
+[2025-07-01 08:59:33][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?669431 HTTP/1.1" 200 OK
+[2025-07-01 08:59:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?520561 HTTP/1.1" 200 OK
+[2025-07-01 08:59:36][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?833565 HTTP/1.1" 200 OK
+[2025-07-01 08:59:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?65030 HTTP/1.1" 200 OK
+[2025-07-01 08:59:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?542894 HTTP/1.1" 200 OK
+[2025-07-01 08:59:41][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?903115 HTTP/1.1" 200 OK
+[2025-07-01 08:59:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?977447 HTTP/1.1" 200 OK
+[2025-07-01 08:59:46][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?400384 HTTP/1.1" 200 OK
+[2025-07-01 08:59:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?954553 HTTP/1.1" 200 OK
+[2025-07-01 08:59:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?76981 HTTP/1.1" 200 OK
+[2025-07-01 08:59:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?955013 HTTP/1.1" 200 OK
+[2025-07-01 09:00:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?289555 HTTP/1.1" 200 OK
+[2025-07-01 09:00:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?93731 HTTP/1.1" 200 OK
+[2025-07-01 09:00:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?956034 HTTP/1.1" 200 OK
+[2025-07-01 09:00:04][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?116269 HTTP/1.1" 200 OK
+[2025-07-01 09:00:07][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?717437 HTTP/1.1" 200 OK
+[2025-07-01 09:00:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?548528 HTTP/1.1" 200 OK
+[2025-07-01 09:00:10][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?26433 HTTP/1.1" 200 OK
+[2025-07-01 09:00:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?751100 HTTP/1.1" 200 OK
+[2025-07-01 09:00:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?896862 HTTP/1.1" 200 OK
+[2025-07-01 09:00:14][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?808467 HTTP/1.1" 200 OK
+[2025-07-01 09:00:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?197803 HTTP/1.1" 200 OK
+[2025-07-01 09:00:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?274076 HTTP/1.1" 200 OK
+[2025-07-01 09:00:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?197314 HTTP/1.1" 200 OK
+[2025-07-01 09:00:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?614212 HTTP/1.1" 200 OK
+[2025-07-01 09:00:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?742859 HTTP/1.1" 200 OK
+[2025-07-01 09:00:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?189372 HTTP/1.1" 200 OK
+[2025-07-01 09:01:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?85865 HTTP/1.1" 200 OK
+[2025-07-01 09:02:15][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?662077 HTTP/1.1" 200 OK
+[2025-07-01 09:02:18][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?83585 HTTP/1.1" 200 OK
+[2025-07-01 09:02:21][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?55949 HTTP/1.1" 200 OK
+[2025-07-01 09:02:24][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?549150 HTTP/1.1" 200 OK
+[2025-07-01 09:02:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?279686 HTTP/1.1" 200 OK
+[2025-07-01 09:02:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?537789 HTTP/1.1" 200 OK
+[2025-07-01 09:02:29][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?929677 HTTP/1.1" 200 OK
+[2025-07-01 09:02:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?129074 HTTP/1.1" 200 OK
+[2025-07-01 09:02:34][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?124580 HTTP/1.1" 200 OK
+[2025-07-01 09:02:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?311869 HTTP/1.1" 200 OK
+[2025-07-01 09:02:38][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?943885 HTTP/1.1" 200 OK
+[2025-07-01 09:02:39][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?555593 HTTP/1.1" 200 OK
+[2025-07-01 09:02:40][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?297879 HTTP/1.1" 200 OK
+[2025-07-01 09:02:42][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?929833 HTTP/1.1" 200 OK
+[2025-07-01 09:02:44][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?255529 HTTP/1.1" 200 OK
+[2025-07-01 09:02:47][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?503840 HTTP/1.1" 200 OK
+[2025-07-01 09:02:49][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?57519 HTTP/1.1" 200 OK
+[2025-07-01 09:02:50][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?744053 HTTP/1.1" 200 OK
+[2025-07-01 09:02:51][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?468122 HTTP/1.1" 200 OK
+[2025-07-01 09:02:53][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?402609 HTTP/1.1" 200 OK
+[2025-07-01 09:02:56][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?971081 HTTP/1.1" 200 OK
+[2025-07-01 09:02:58][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?747764 HTTP/1.1" 200 OK
+[2025-07-01 09:03:00][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?801158 HTTP/1.1" 200 OK
+[2025-07-01 09:03:01][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?296432 HTTP/1.1" 200 OK
+[2025-07-01 09:03:02][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?980709 HTTP/1.1" 200 OK
+[2025-07-01 09:03:05][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?530192 HTTP/1.1" 200 OK
+[2025-07-01 09:03:08][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?640529 HTTP/1.1" 200 OK
+[2025-07-01 09:03:09][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?20377 HTTP/1.1" 200 OK
+[2025-07-01 09:03:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?144799 HTTP/1.1" 200 OK
+[2025-07-01 09:03:12][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?66784 HTTP/1.1" 200 OK
+[2025-07-01 09:03:13][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?696531 HTTP/1.1" 200 OK
+[2025-07-01 09:03:16][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?319226 HTTP/1.1" 200 OK
+[2025-07-01 09:03:17][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?993237 HTTP/1.1" 200 OK
+[2025-07-01 09:03:20][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?108885 HTTP/1.1" 200 OK
+[2025-07-01 09:03:22][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?712249 HTTP/1.1" 200 OK
+[2025-07-01 09:03:23][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?249734 HTTP/1.1" 200 OK
+[2025-07-01 09:03:25][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?668313 HTTP/1.1" 200 OK
+[2025-07-01 09:03:27][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?560220 HTTP/1.1" 200 OK
+[2025-07-01 09:03:28][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?184711 HTTP/1.1" 200 OK
+[2025-07-01 09:03:31][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?175964 HTTP/1.1" 200 OK
+[2025-07-01 09:03:37][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/players.json?559197 HTTP/1.1" 200 OK
+[2025-07-01 09:03:48][INFO] /0:0:0:0:0:0:0:1 "GET /maps/world/live/markers.json?436242 HTTP/1.1" 200 OK
