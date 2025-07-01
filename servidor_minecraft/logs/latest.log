@@ -2156,3 +2156,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 18:43:29.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 55576363-a43c-36f6-b83b-ceac7eff7544
 [01Jul2025 18:43:29.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player shadow (55576363-a43c-36f6-b83b-ceac7eff7544) successfully connected to voice chat
 [01Jul2025 18:48:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shadow> asd
+[01Jul2025 18:51:15.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 18:51:29.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 18:51:29.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 18:51:29.377] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
+[01Jul2025 18:52:17.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14d6074[id=<null>,name=shadow,properties={},legacy=false] (/127.191.140.51:57607) lost connection: Disconnected

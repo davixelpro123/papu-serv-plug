@@ -12890,3 +12890,68 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [01Jul2025 18:49:12.487] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, 0) (Map: world)
 [01Jul2025 18:49:17.664] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -1) (Map: world)
 [01Jul2025 18:49:17.669] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -1) (Map: world)
+[01Jul2025 18:51:00.924] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, 0) (Map: world)
+[01Jul2025 18:51:10.076] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, 0) (Map: world)
+[01Jul2025 18:51:15.507] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 55576363-a43c-36f6-b83b-ceac7eff7544 timed out
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player shadow
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to shadow
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with shadow
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with shadow
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to shadow
+[01Jul2025 18:51:15.508] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 55576363-a43c-36f6-b83b-ceac7eff7544 to disconnected: {disabled=false, disconnected=true, uuid=55576363-a43c-36f6-b83b-ceac7eff7544, name=shadow, group=null}
+[01Jul2025 18:51:29.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Timed out
+[01Jul2025 18:51:29.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
+[01Jul2025 18:51:29.377] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of shadow
+[01Jul2025 18:51:29.377] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client shadow
+[01Jul2025 18:51:35.079] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, 1) (Map: world)
+[01Jul2025 18:51:35.445] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, 1) (Map: world)
+[01Jul2025 18:51:35.453] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -1) (Map: world)
+[01Jul2025 18:51:35.459] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -1) (Map: world)
+[01Jul2025 18:51:35.460] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, 0) (Map: world)
+[01Jul2025 18:51:40.073] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, 0) (Map: world)
+[01Jul2025 18:51:48.017] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 36 messages to dispatch.
+[01Jul2025 18:51:48.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[01Jul2025 18:51:48.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[01Jul2025 18:51:48.117] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[01Jul2025 18:51:48.167] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[01Jul2025 18:51:48.217] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:moa_type' to 'fml:handshake' sequence 4
+[01Jul2025 18:51:48.267] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[01Jul2025 18:51:48.317] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[01Jul2025 18:51:48.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 7
+[01Jul2025 18:51:48.417] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 8
+[01Jul2025 18:51:48.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 9
+[01Jul2025 18:51:48.517] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 10
+[01Jul2025 18:51:48.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 11
+[01Jul2025 18:51:48.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 12
+[01Jul2025 18:51:48.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 13
+[01Jul2025 18:51:48.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 14
+[01Jul2025 18:51:48.767] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 15
+[01Jul2025 18:51:48.817] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 16
+[01Jul2025 18:51:48.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 17
+[01Jul2025 18:51:48.917] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 18
+[01Jul2025 18:51:48.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 19
+[01Jul2025 18:51:49.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[01Jul2025 18:51:49.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[01Jul2025 18:51:49.117] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[01Jul2025 18:51:49.167] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[01Jul2025 18:51:49.217] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry aether:advancement_sound_override' to 'fml:handshake' sequence 24
+[01Jul2025 18:51:49.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 25
+[01Jul2025 18:51:49.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 26
+[01Jul2025 18:51:49.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[01Jul2025 18:51:49.417] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 28
+[01Jul2025 18:51:49.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 29
+[01Jul2025 18:51:49.517] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config travelersbackpack-server.toml' to 'fml:handshake' sequence 30
+[01Jul2025 18:51:49.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dungeonnowloading-server.toml' to 'fml:handshake' sequence 31
+[01Jul2025 18:51:49.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pale_hound-server.toml' to 'fml:handshake' sequence 32
+[01Jul2025 18:51:49.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config aether-server.toml' to 'fml:handshake' sequence 33
+[01Jul2025 18:51:49.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 34
+[01Jul2025 18:51:49.767] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 35
+[01Jul2025 18:51:56.525] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[01Jul2025 18:51:56.594] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[01Jul2025 18:51:56.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 18:51:56.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jul2025 18:52:17.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14d6074[id=<null>,name=shadow,properties={},legacy=false] (/127.191.140.51:57607) lost connection: Disconnected
+[01Jul2025 18:56:56.524] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[01Jul2025 18:56:56.590] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[01Jul2025 18:56:56.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jul2025 18:56:56.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
